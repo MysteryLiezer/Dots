@@ -1,0 +1,17 @@
+2022-11-02T08:17:29.577Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-11-02T08:17:30.059Z - info: [ui] launching: 3.0.6-linux1 (Linux 6.0.1-arch2-1)
+2022-11-02T08:17:30.069Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-11-02T08:17:30.456Z - info: [ui] Stats reported.
+2022-11-02T08:18:28.578Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-11-02T08:18:28.586Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=c5e515a9-bd09-419c-a9f8-50f9dc9ac4d4
+2022-11-02T08:18:48.134Z - info: [main] Received possible protocol arguments: 4
+2022-11-02T08:18:48.135Z - info: [main] Processing protocol url
+2022-11-02T08:18:48.152Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-11-02T08:18:48.664Z - info: [ui] [SignInStore] account resolved
+2022-11-02T08:18:48.665Z - info: [ui] [AppStore] adding account MysteryLiezer (Reggy Elizer) to store
+2022-11-02T08:18:48.700Z - error: [ui] Error adding account 'MysteryLiezer'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2022-11-02T08:18:56.721Z - info: [main] Received possible protocol arguments: 4
+2022-11-02T08:18:56.722Z - info: [main] Processing protocol url
+2022-11-02T08:18:56.723Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-11-02T08:18:56.737Z - warn: [ui] requestAuthenticatedUser was not called with valid OAuth state. This is likely due to a browser reloading the callback URL. Contact GitHub Support if you believe this is an error

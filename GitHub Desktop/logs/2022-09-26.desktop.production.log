@@ -1,0 +1,69 @@
+2022-09-26T20:45:47.798Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-09-26T20:45:47.846Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-09-26T20:45:47.853Z - info: [ui] launching: 3.0.6-linux1 (Linux 5.19.9-arch1-1)
+2022-09-26T20:45:47.855Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-09-26T20:45:47.885Z - info: [ui] Opt in reported.
+2022-09-26T20:45:47.893Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-09-26T20:45:47.923Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-09-26T20:46:32.245Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-09-26T20:46:32.333Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-09-26T20:46:32.365Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-09-26T20:46:32.386Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-09-26T20:46:32.390Z - info: [ui] launching: 3.0.6-linux1 (Linux 5.19.9-arch1-1)
+2022-09-26T20:46:32.391Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-09-26T20:46:32.437Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-09-26T20:46:34.684Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2022-09-26T20:46:34.686Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-09-26T20:46:34.692Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=a2fc2dad-eb7f-4886-951e-8d227078c2fb
+2022-09-26T20:46:34.694Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2022-09-26T20:46:40.031Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-09-26T20:46:47.527Z - info: [main] Received possible protocol arguments: 4
+2022-09-26T20:46:47.528Z - info: [main] Processing protocol url
+2022-09-26T20:46:47.537Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-09-26T20:46:47.554Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2022-09-26T20:46:47.983Z - info: [ui] [SignInStore] account resolved
+2022-09-26T20:46:47.984Z - info: [ui] [AppStore] adding account MysteryLiezer22 (Reggy Elizer) to store
+2022-09-26T20:46:47.993Z - error: [ui] Error adding account 'MysteryLiezer22'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2022-09-26T20:46:47.994Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2022-09-26T20:46:48.054Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2022-09-26T20:47:44.637Z - info: [ui] [AppStore] adding repository at /home/farhan/Repos/Dotfiles to store
+2022-09-26T20:48:07.335Z - info: [ui] storing generic credentials for 'github.com' and 'MysteryLiezer22'
+2022-09-26T20:48:07.353Z - error: [ui] Error saving generic git credentials: MysteryLiezer22@github.com
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2022-09-26T20:48:14.057Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.0s of which 0.0s paused, total 0.0s
+2022-09-26T20:52:43.265Z - info: [ui] [AppStore] loading 1 repositories from store
+2022-09-26T20:52:43.782Z - info: [ui] launching: 3.0.6-linux1 (Linux 5.19.9-arch1-1)
+2022-09-26T20:52:43.783Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2022-09-26T20:52:43.925Z - info: [ui] Stats reported.
+2022-09-26T20:53:28.952Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-09-26T20:53:28.962Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=31e022f1-a1bb-4dc0-976c-69403eadd1bc
+2022-09-26T20:53:29.771Z - info: [main] Received possible protocol arguments: 4
+2022-09-26T20:53:29.772Z - info: [main] Processing protocol url
+2022-09-26T20:53:29.773Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-09-26T20:53:30.153Z - info: [ui] [SignInStore] account resolved
+2022-09-26T20:53:30.154Z - info: [ui] [AppStore] adding account MysteryLiezer (Reggy Elizer) to store
+2022-09-26T20:53:30.166Z - error: [ui] Error adding account 'MysteryLiezer'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2022-09-26T20:53:45.789Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-09-26T20:53:45.810Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=c5d6a209-c9ec-49ad-ad1f-e200443e4112
+2022-09-26T20:53:46.532Z - info: [main] Received possible protocol arguments: 4
+2022-09-26T20:53:46.534Z - info: [main] Processing protocol url
+2022-09-26T20:53:46.535Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-09-26T20:53:46.902Z - info: [ui] [SignInStore] account resolved
+2022-09-26T20:53:46.903Z - info: [ui] [AppStore] adding account MysteryLiezer (Reggy Elizer) to store
+2022-09-26T20:53:46.908Z - error: [ui] Error adding account 'MysteryLiezer'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2022-09-26T20:54:07.685Z - info: [ui] [SignInStore] initializing OAuth flow
+2022-09-26T20:54:07.691Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=eeb68371-8ea7-456b-bc0c-273aaa2860b5
+2022-09-26T20:54:11.361Z - info: [main] Received possible protocol arguments: 4
+2022-09-26T20:54:11.361Z - info: [main] Processing protocol url
+2022-09-26T20:54:11.362Z - info: [ui] [Dispatcher] requesting authenticated user
+2022-09-26T20:54:11.678Z - info: [ui] [SignInStore] account resolved
+2022-09-26T20:54:11.679Z - info: [ui] [AppStore] adding account MysteryLiezer (Reggy Elizer) to store
+2022-09-26T20:54:11.687Z - error: [ui] Error adding account 'MysteryLiezer'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2022-09-26T20:55:52.539Z - info: [ui] [AppStore.getAccountForRemoteURL] found generic credentials for 'github.com' and 'MysteryLiezer22'
+2022-09-26T20:55:52.855Z - info: [ui] [AppStore] adding repository at /home/farhan/Repos/Dotfiles to store
+2022-09-26T21:08:28.893Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.4s of which 0.0s paused, total 0.4s
+2022-09-26T21:23:49.902Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.0s of which 0.0s paused, total 0.0s

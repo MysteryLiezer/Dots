@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 7
+    },
+    "auditLog": "/home/farhan/.config/ticktick/logs/electron/.d9c3dd3aeea9e63ac8cd1223d4522f2899bc79ca-audit.json",
+    "files": [
+        {
+            "date": 1664156146593,
+            "name": "/home/farhan/.config/ticktick/logs/electron/electron-2022-09-25.log",
+            "hash": "4325236324dae174bcb628360a7ce258"
+        }
+    ]
+}

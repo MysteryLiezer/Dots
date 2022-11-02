@@ -1,0 +1,32 @@
+[2022-09-21 16:06:15.792] [info] Logseq App(0.8.7) Starting... 
+[2022-09-21 16:06:18.604] [debug] :electron.handler/watch-dir {:path "/home/farhan/.logseq/config"}
+[2022-09-21 16:06:18.681] [debug] :electron.handler/unwatch-dir {:path "/local"}
+[2022-09-21 16:06:18.682] [debug] :electron.handler/watch-dir {:path "/local"}
+[2022-09-21 16:06:26.522] [info] :electron.handler/open-dir open folder selection dialog
+[2022-09-21 16:07:19.285] [debug] :electron.handler/open-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-21 16:07:19.479] [debug] :electron.handler/watch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-21 16:07:19.593] [debug] :electron.handler/watch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-23 16:13:34.685] [info] Logseq App(0.8.7) Starting... 
+[2022-09-23 16:13:37.215] [debug] :electron.handler/watch-dir {:path "/home/farhan/.logseq/config"}
+[2022-09-23 16:13:37.288] [debug] :electron.handler/unwatch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-23 16:13:37.289] [debug] :electron.handler/watch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-23 16:13:47.158] [debug] :electron.handler/watch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-23 16:16:42.467] [debug] window-all-closed Quiting...
+[2022-09-23 16:27:22.873] [info] Logseq App(0.8.7) Starting... 
+[2022-09-23 16:27:26.073] [debug] :electron.handler/watch-dir {:path "/home/farhan/.logseq/config"}
+[2022-09-23 16:27:26.162] [debug] :electron.handler/unwatch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-23 16:27:26.163] [debug] :electron.handler/watch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-23 16:27:26.484] [debug] :electron.handler/watch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-25 00:46:21.327] [debug] window-all-closed Quiting...
+[2022-09-26 15:14:04.030] [info] Logseq App(0.8.7) Starting... 
+[2022-09-26 15:14:06.961] [debug] :electron.handler/watch-dir {:path "/home/farhan/.logseq/config"}
+[2022-09-26 15:14:07.045] [debug] :electron.handler/unwatch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-26 15:14:07.047] [debug] :electron.handler/watch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-26 15:14:07.426] [debug] :electron.handler/watch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-26 15:14:25.888] [debug] window-all-closed Quiting...
+[2022-09-26 15:30:55.704] [info] Logseq App(0.8.7) Starting... 
+[2022-09-26 15:30:58.897] [debug] :electron.handler/watch-dir {:path "/home/farhan/.logseq/config"}
+[2022-09-26 15:30:58.983] [debug] :electron.handler/unwatch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-26 15:30:58.985] [debug] :electron.handler/watch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-26 15:30:59.315] [debug] :electron.handler/watch-dir {:path "/home/farhan/Documents/Logseq"}
+[2022-09-26 15:31:51.350] [debug] window-all-closed Quiting...
