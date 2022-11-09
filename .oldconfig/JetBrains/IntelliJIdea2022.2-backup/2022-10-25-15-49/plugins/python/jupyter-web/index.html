@@ -1,0 +1,24 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <title>JupyterWeb</title>
+    <base href=".">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+        try {
+            MathJax.Hub.Config({
+                displayAlign: "left",
+                messageStyle: "none",
+                "fast-preview": {disabled: true},
+                tex2jax: {preview: "none", inlineMath: [["$", "$"]]}
+            });
+        } catch (e) {
+            console.log('MathJax is not available')
+        }
+    </script>
+</head>
+<body>
+<app-root></app-root>
+<script src="runtime.js" type="module"></script><script src="polyfills.js" type="module"></script><script src="main.js" type="module"></script>
+
+</body></html>

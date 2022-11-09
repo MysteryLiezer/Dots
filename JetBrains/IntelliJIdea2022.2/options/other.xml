@@ -1,0 +1,108 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2GopGze1GEZLI7jay9tsrrtly0e">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2H0fVlZg6b24a7QkSiNsbQlXe4W">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2H4ux2kjkHqqG4wJdF2q1CQr5iq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+    <option name="user">
+      <StepikUser>
+        <option name="tokenExpiresIn" value="1667485454" />
+        <option name="firstName" value="Reggy" />
+        <option name="guest" value="false" />
+        <option name="id" value="553175142" />
+        <option name="lastName" value="Elizer" />
+      </StepikUser>
+    </option>
+  </component>
+  <component name="HyperskillSettings">
+    <option name="updateAutomatically" value="true" />
+    <HyperskillAccount>
+      <option name="tokenExpiresIn" value="1667485401" />
+      <option name="email" value="reggyelizer@gmail.com" />
+      <option name="fullname" value="Reggy Elizer" />
+      <option name="guest" value="false" />
+      <option name="hyperskillProjectId" value="258" />
+      <option name="id" value="330950200" />
+    </HyperskillAccount>
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;CWM_LOGGING_VERSION&quot;: &quot;1&quot;,
+    &quot;Edu.CourseCreator.Enabled&quot;: &quot;true&quot;,
+    &quot;Edu.NewCourse&quot;: &quot;python&quot;,
+    &quot;Educational.recentCoursesFilled&quot;: &quot;true&quot;,
+    &quot;Educational.stepikOAuthReset&quot;: &quot;true&quot;,
+    &quot;ExpandBeforeRunStepsPanel&quot;: &quot;true&quot;,
+    &quot;InstalledPluginsSearchHistory&quot;: &quot;ghc\ng\nteach&quot;,
+    &quot;MarketplacePluginsSearchHistory&quot;: &quot;ghc&quot;,
+    &quot;PluginConfigurable.selectionTab&quot;: &quot;1&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;SettingsSearchHistory&quot;: &quot;teach&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;IU-222.4345.14-452a8fff042847ea34ec58f0a73b180395e1f0ff6bced4bf6a798677e96a0345&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;IU-222.4345.14&quot;,
+    &quot;com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0&quot;: &quot;300&quot;,
+    &quot;com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep&quot;: &quot;IntelliJ&quot;,
+    &quot;com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep&quot;: &quot;Java&quot;,
+    &quot;defaultJdkConfigured&quot;: &quot;true&quot;,
+    &quot;eclipse.projects.detected&quot;: &quot;&quot;,
+    &quot;evlsprt3.222&quot;: &quot;23&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;2&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;got.it.tooltip.copilot.inlayGotIt&quot;: &quot;1&quot;,
+    &quot;gotit.previous.run&quot;: &quot;IU-222.4345.14&quot;,
+    &quot;ideavim.statistics.timestamp&quot;: &quot;1667556929427&quot;,
+    &quot;ift.learning.panel.opened.in&quot;: &quot;222.4345.14&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;installed.kotlin.plugin.version&quot;: &quot;222-1.7.10-release-334-IJ4345.14&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Dark purple&quot;,
+    &quot;project.wizard.group&quot;: &quot;newWizard.com.intellij.ide.wizard.NewProjectBuilder&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;IU-222.4345.14&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;4.7.4&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/farhan/.config/qutebrowser&quot;,
+      &quot;/home/farhan/.config/qtile&quot;,
+      &quot;/home/farhan/.config&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector&quot;,
+      &quot;com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="xmonad-history" project-path="$USER_HOME$/.config/xmonad" last-access-time="1667953823392" />
+    </command-history-files>
+  </component>
+</application>

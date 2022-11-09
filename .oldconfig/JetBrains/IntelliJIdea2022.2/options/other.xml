@@ -1,0 +1,144 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2Gdo14tuM1t79V0WE9anENcCxbW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Ge0939OCvhCxSboAp66e4Qst5b">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gh3wLVVhzjpAadXKlobzIO7N1J">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GodPitpFsGBx2SEbQsnTEEOHYZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GooEOQVAay3W8AeSsBNlTnkGMb">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GopGze1GEZLI7jay9tsrrtly0e">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GoqOpqKp9kKBxLhO2I5wejOFLU">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gy4X7UhWbnIa5F4KO0RIMwWQz0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+  </component>
+  <component name="HyperskillSettings">
+    <option name="updateAutomatically" value="true" />
+    <HyperskillAccount>
+      <option name="tokenExpiresIn" value="1667440201" />
+      <option name="email" value="reggyelizer@gmail.com" />
+      <option name="fullname" value="Reggy Elizer" />
+      <option name="guest" value="false" />
+      <option name="hyperskillProjectId" value="97" />
+      <option name="id" value="330950200" />
+    </HyperskillAccount>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+    <languageToProjectMap>
+      <entry key="Python" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2022.2/demo/PyCharmLearningProject" />
+    </languageToProjectMap>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Edu.CourseCreator.Enabled": "true",
+    "Educational.recentCoursesFilled": "true",
+    "Educational.stepikOAuthReset": "true",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FileChooser.ShowPath": "true",
+    "InstalledPluginsSearchHistory": "haskell\nhaskel\nhaske\nhas\n/sortBy:downloads",
+    "MarketplacePluginsSearchHistory": "/sortBy:featured /sortBy:downloads\n/sortBy:featured\nr\nra\nrainbow",
+    "NewProjectWizard.addSampleCodeState": "false",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RegistryRecentKeys": "ide.experimental.ui",
+    "RunOnceActivity.se.text.search": "true",
+    "SHELLCHECK.PATH": "/home/farhan/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/222.4345.14.plugins/Shell Script/shellcheck",
+    "SettingsSearchHistory": "stack\nhaskell\nhaskell import",
+    "TextEditorWithPreview.SplitterProportionKey": "0.5074946",
+    "appcds.runOnSecondStart": "IU-222.4345.14-452a8fff042847ea34ec58f0a73b180395e1f0ff6bced4bf6a798677e96a0345",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "askFeedbackNotification": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IU-222.4345.14",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Gradle",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.jetbrains.edu.LAST_UPDATE": "1666727606321",
+    "create.project.preferred.importer": "Haskell Stack",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "evlsprt3.222": "22",
+    "file.gist.reindex.count": "6",
+    "fileTypeChangedCounter": "9",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "gotit.previous.run": "IU-222.4345.14",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1667347090765",
+    "ift.learning.panel.opened.in": "222.4345.14",
+    "ift.pycharm.onboarding.feedback.proposed": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "222-1.7.10-release-334-IJ4345.14",
+    "last.imported.location": "/home/farhan/hbook",
+    "last_opened_file_path": "/usr/bin/stack",
+    "previousColorScheme": "_@user_Dark purple",
+    "project.wizard.group": "HASKELL_MODULE",
+    "registry.to.advanced.settings.migration.build": "IU-222.4345.14",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/usr/bin/stack",
+      "/home/farhan/hbook",
+      "/home/farhan/.config/xmonad",
+      "/home/farhan/.config/xmonad/xmonad.hs",
+      "/usr/bin"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

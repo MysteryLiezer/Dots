@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/.config/qtile" value="true" />
+        <entry key="$USER_HOME$/.config/qutebrowser" value="true" />
+        <entry key="$USER_HOME$/.config/xmonad" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/.config" />
+      </list>
+    </option>
+  </component>
+</application>

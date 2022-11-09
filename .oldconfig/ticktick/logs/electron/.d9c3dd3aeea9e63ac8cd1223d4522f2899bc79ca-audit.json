@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 7
+    },
+    "auditLog": "/home/farhan/.config/ticktick/logs/electron/.d9c3dd3aeea9e63ac8cd1223d4522f2899bc79ca-audit.json",
+    "files": [
+        {
+            "date": 1667268945688,
+            "name": "/home/farhan/.config/ticktick/logs/electron/electron-2022-10-31.log",
+            "hash": "e18a1879951ede0f963f67a4d02bc469"
+        },
+        {
+            "date": 1667277024535,
+            "name": "/home/farhan/.config/ticktick/logs/electron/electron-2022-11-01.log",
+            "hash": "22aaa269f84277e1b03738211ad69d12"
+        }
+    ]
+}

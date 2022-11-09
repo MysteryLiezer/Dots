@@ -1,0 +1,89 @@
+<application>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Repositories/Dummies/fibo.py/fibo.py" timestamp="1664885580017">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1666726283727">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1666725336892">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1665025928630">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repositories/FluentPython/example-code-2e/01-data-model/frenchdeck.py" timestamp="1665032038887">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="18" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1666202287372">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="17" column="0" filename="$USER_HOME$/Repositories/Dummies/fibo.py/fibo.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Repositories/Dummies/fibo.py/fibo.py" />
+      <jump line="16" column="54" filename="$USER_HOME$/Repositories/Dummies/fibo.py/fibo.py" />
+      <jump line="4" column="8" filename="$USER_HOME$/Repositories/Dummies/fibo.py/fibo.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHJlCmltcG9ydCBzeXMKCldPUkRfUkUgPSByZS5jb21waWxlKHInXHcrJykKCmluZGV4ID0ge30Kd2l0aCBvcGVuKHN5cy5hcmd2WzFdLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmcDoKICAgIGZvciBsaW5lX25vLCBsaW5lIGluIGVudW1lcmF0ZShmcCwgMSk6CiAgICAgICAgZm9yIG1hdGNoIGluIFdPUkRfUkUuZmluZGl0ZXIobGluZSk6CiAgICAgICAgICAgIHdvcmQgPSBtYXRjaC5ncm91cCgpCiAgICAgICAgICAgIGNvbHVtbl9ubyA9IG1hdGNoLnN0YXJ0KCkgKyAxCiAgICAgICAgICAgIGxvY2F0aW9uID0gKGxpbmVfbm8sIGNvbHVtbl9ubykKICAgICAgICAgICAgb2NjdXJyZW5jZXMgPSBpbmRleC5nZXQod29yZCwgW10pCiAgICAgICAgICAgIG9jY3VycmVuY2VzLmFwcGVuZChsb2NhdGlvbikKICAgICAgICAgICAgaW5kZXhbd29yZF0gPSBvY2N1cnJlbmNlcwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Lg==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">amo=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVjayA9IEZyZW5jaERlY2soKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHJlCmltcG9ydCBzeXMKCldPUkRfUkUgPSByZS5jb21waWxlKHInXHcrJykKCmluZGV4ID0ge30Kd2l0aCBvcGVuKHN5cy5hcmd2WzFdLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmcDoKICAgIGZvciBsaW5lX25vLCBsaW5lIGluIGVudW1lcmF0ZShmcCwgMSk6CiAgICAgICAgZm9yIG1hdGNoIGluIFdPUkRfUkUuZmluZGl0ZXIobGluZSk6CiAgICAgICAgICAgIHdvcmQgPSBtYXRjaC5ncm91cCgpCiAgICAgICAgICAgIGNvbHVtbl9ubyA9IG1hdGNoLnN0YXJ0KCkgKyAxCiAgICAgICAgICAgIGxvY2F0aW9uID0gKGxpbmVfbm8sIGNvbHVtbl9ubykKICAgICAgICAgICAgb2NjdXJyZW5jZXMgPSBpbmRleC5nZXQod29yZCwgW10pCiAgICAgICAgICAgIG9jY3VycmVuY2VzLmFwcGVuZChsb2NhdGlvbikKICAgICAgICAgICAgaW5kZXhbd29yZF0gPSBvY2N1cnJlbmNlcwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZGVmIGdldF9jcmVhdG9ycyhyZWNvcmQ6IGRpY3QpIC0+IGxpc3Q6CiAgICBtYXRjaCByZWNvcmQ6CiAgICAgICAgY2FzZSB7J3R5cGUnOiAnYm9vaycsICdhcGknOiAyLCAnYXV0aG9ycyc6IFsqbmFtZXNdfToKICAgICAgICAgICAgcmV0dXJuIG5hbWVzCiAgICAgICAgY2FzZSB7J3R5cGUnOiAnYm9vaycsICdhcGknOiAxLCAnYXV0aG9yJzogbmFtZX06CiAgICAgICAgICAgIHJldHVybiBbbmFtZV0KICAgICAgICBjYXNlIHsndHlwZSc6ICdib29rJ306CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJJbnZhbGlkICdib29rJyByZWNvcmQ6IHtyZWNvcmQhcn0iKQogICAgICAgIGNhc2Ugeyd0eXBlJzogJ21vdmllJywgJ2RpcmVjdG9yJzogbmFtZX06CiAgICAgICAgICAgIHJldHVybiBbbmFtZV0KICAgICAgICBjYXNlIF86CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZidJbnZhbGlkIHJlY29yZDoge3JlY29yZCFyfScpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5CgpmbG9hdHMgPSBudW1weS5sb2FkdHh0KCdmbG9hdHMtMTBNLWxpbmVzLnR4dCcpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgphID0gbnAuYXJhbmdlKDEyKQoKcHJpbnQodHlwZShhKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBhcnJheSBpbXBvcnQgYXJyYXkKCm51bWJlcnMgPSBhcnJheSgnaCcsIFstMiwgLTEsIDAsIDEsIDJdKQoKbWVtdiA9IG1lbW9yeXZpZXcobnVtYmVycykKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bCA9IFsxMCwgMjAsIDMwLCA0MCwgNTAsIDYwXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmIGV2YWx1YXRlKGV4cDogRXhwcmVzc2lvbiwgZW52OiBFbnZpcm9ubWVudCkgLT4gQW55OgogICAgIkV2YWx1YXRlIGFuIGV4cHJlc3Npb24gaW4gYW4gZW52aXJvbm1lbnQuIgogICAgbWF0Y2ggZXhwOgogICAgICAgIGNhc2UgWydxdW90ZScsIHhdOgogICAgICAgICAgICByZXR1cm4geAogICAgICAgIGNhc2UgWydpZicsIHRlc3QsIGNvbnNlcXVlbmNlLCBhbHRlcm5hdGl2ZV06CiAgICAgICAgICAgIGlmIGV2YWx1YXRlKHRlc3QsIGVudik6CiAgICAgICAgICAgICAgICByZXR1cm4gZXZhbHVhdGUoY29uc2VxdWVuY2UsIGVudikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJldHVybiBldmFsdWF0ZShhbHRlcm5hdGl2ZSwgZW52KQogICAgICAgIGNhc2UgWydsYW1iZGEnLCBbKnBhcm1zXSwgKmJvZHldIGlmIGJvZHk6CiAgICAgICAgICAgIHJldHVybiBQcm9jZWR1cmUocGFybXMsIGJvZHksIGVudikKICAgICAgICBjYXNlIFsnZGVmaW5lJywgU3ltYm9sKCkgYXMgbmFtZSwgdmFsdWVfZXhwXToKICAgICAgICAgICAgZW52W25hbWVdID0gZXZhbHVhdGUodmFsdWVfZXhwLCBlbnYpCiAgICAgICAgY2FzZSBfOgogICAgICAgICAgICByYWlzZSBTeW50YXhFcnJvcihsaXNwc3RyKGV4cCkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHJpbnQoQ2FyYW5kb20oKSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">djEgPSBWZWN0b3IoMiwgNCkKdjIgPSBWZWN0b3IoMiwgMSkKCnYxICsgdjIK</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

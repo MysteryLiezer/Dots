@@ -1,0 +1,64 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2GMekmbZenijKaxPteAoX32oe0F">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GMezC1eaMOgvKGpJkhYcYMEuVO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GMgY5FIKevRPJgKuQvXxGSs0HY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GMiUvCw435JzZ08WcLRL4dY5HO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;CWM_LOGGING_VERSION&quot;: &quot;1&quot;,
+    &quot;GeneralSettings.initiallyConfigured&quot;: &quot;true&quot;,
+    &quot;MarketplacePluginsSearchHistory&quot;: &quot;markdown\nmarkdown support\nmarkdown su\nmark&quot;,
+    &quot;NonModalCommitCustomization.IsApplied&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;WS-222.4345.14-8d28d484c92778959b608d15c966624d5bac78198e0035ff4b41ee5ea2466ab6&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;WS-222.4345.14&quot;,
+    &quot;evlsprt3.222&quot;: &quot;25&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/farhan/Repositories/JavaScriptTest&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Darcula&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;WS-222.4345.14&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;4.7.4&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/farhan/Repositories/JavaScriptTest&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+</application>

@@ -1,0 +1,36 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="description" value="&lt;p&gt;The International Union Against Idleness (IUAI) announced a competition for an application that would motivate users. There are prizes involved. Since you like competing and know a little bit about programming, you asked your friend to prepare an interesting algorithm for a quick buck. Unfortunately, you weren&amp;#39;t clear enough, and instead of a ready-made program, a friend prepared a flowchart of Honest Calculator. You will have to put some effort into assembling it.&lt;/p&gt;&#13;&#10;&#13;&#10;&lt;p&gt;Working on the project, you&amp;#39;re at first required to build a simple calculator which later on is going to motivate users to try and do the math themselves by becoming more and more honest with them. For example, if they need to do calculations with multidigit numbers, that, okay, might be tricky, so the calculator won&amp;#39;t be very hard on them and just solve it. However, if the equation is a simple sum of two integers like&amp;nbsp;&lt;em&gt;2 + 3&lt;/em&gt;, maybe it should suggest solving it themselves. Even worse, if it&amp;#39;s multiplication by one or zero, that is just of the line!&amp;nbsp;After all, it&amp;#39;s a competition organized by the International Union Against&amp;nbsp;&lt;em&gt;Idleness&lt;/em&gt;.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org/projects/208?utm_source=ide&amp;utm_medium=ide&amp;utm_campaign=ide&amp;utm_content=project-card&quot;&gt;https://hyperskill.org/projects/208&lt;/a&gt;" />
+        <option name="id" value="208" />
+        <option name="location" value="$USER_HOME$/.webprojects/Honest Calculator" />
+        <option name="name" value="Honest Calculator" />
+        <option name="programmingLanguage" value="Python" />
+        <option name="tasksSolved" value="5" />
+        <option name="tasksTotal" value="5" />
+        <option name="type" value="Hyperskill" />
+      </course>
+      <course>
+        <option name="description" value="This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org/projects/98?utm_source=ide&amp;utm_medium=ide&amp;utm_campaign=ide&amp;utm_content=project-card&quot;&gt;https://hyperskill.org/projects/98&lt;/a&gt;" />
+        <option name="id" value="98" />
+        <option name="location" value="$USER_HOME$/.webprojects/Zookeeper" />
+        <option name="name" value="Zookeeper" />
+        <option name="programmingLanguage" value="Python" />
+        <option name="tasksSolved" value="4" />
+        <option name="tasksTotal" value="4" />
+        <option name="type" value="Hyperskill" />
+      </course>
+      <course>
+        <option name="description" value="&lt;p&gt;Here, at the beginning of your programmer&amp;rsquo;s path, creating a simple console chat bot will do wonders to guide you through the basics of coding. During this journey you will also play some word and number games that you are going to implement all on your own. Pack up and let&amp;rsquo;s hit the road, my friend!&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org/projects/97?utm_source=ide&amp;utm_medium=ide&amp;utm_campaign=ide&amp;utm_content=project-card&quot;&gt;https://hyperskill.org/projects/97&lt;/a&gt;" />
+        <option name="id" value="97" />
+        <option name="location" value="$USER_HOME$/.webprojects/Simple Chatty Bot" />
+        <option name="name" value="Simple Chatty Bot" />
+        <option name="programmingLanguage" value="Python" />
+        <option name="tasksSolved" value="1" />
+        <option name="tasksTotal" value="5" />
+        <option name="type" value="Hyperskill" />
+      </course>
+    </courses>
+  </component>
+</application>

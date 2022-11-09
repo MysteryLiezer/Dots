@@ -1,0 +1,26 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="description" value="&lt;p&gt;Here, at the beginning of your programmer&amp;rsquo;s path, creating a simple console chat bot will do wonders to guide you through the basics of coding. During this journey you will also play some word and number games that you are going to implement all on your own. Pack up and let&amp;rsquo;s hit the road, my friend!&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org/projects/97?utm_source=ide&amp;utm_medium=ide&amp;utm_campaign=ide&amp;utm_content=project-card&quot;&gt;https://hyperskill.org/projects/97&lt;/a&gt;" />
+        <option name="id" value="97" />
+        <option name="location" value="$USER_HOME$/IdeaProjects/Simple Chatty Bot" />
+        <option name="name" value="Simple Chatty Bot" />
+        <option name="programmingLanguage" value="Python" />
+        <option name="tasksSolved" value="5" />
+        <option name="tasksTotal" value="5" />
+        <option name="type" value="Hyperskill" />
+      </course>
+      <course>
+        <option name="description" value="&lt;p&gt;Playing with friends is pure fun but getting ahead of them is even more enjoyable. Invite a friend to play the Last Pencil, a game where you decide who wins.&amp;nbsp;In this project, your opponent is a computer that is an expert in the game. But it&amp;#39;s up to you to choose who wins.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org/projects/258?utm_source=ide&amp;utm_medium=ide&amp;utm_campaign=ide&amp;utm_content=project-card&quot;&gt;https://hyperskill.org/projects/258&lt;/a&gt;" />
+        <option name="id" value="258" />
+        <option name="location" value="$USER_HOME$/IdeaProjects/Last Pencil" />
+        <option name="name" value="Last Pencil" />
+        <option name="programmingLanguage" value="Python" />
+        <option name="tasksSolved" value="4" />
+        <option name="tasksTotal" value="5" />
+        <option name="type" value="Hyperskill" />
+      </course>
+    </courses>
+  </component>
+</application>

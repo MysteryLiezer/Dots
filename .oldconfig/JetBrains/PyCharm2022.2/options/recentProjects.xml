@@ -1,0 +1,62 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Repositories/FluentPython/example-code-2e">
+          <value>
+            <RecentProjectMetaInfo frameTitle="example-code-2e – ~/.config/JetBrains/PyCharm2022.2/scratches/scratch_1.py" projectWorkspaceId="2FkLN5WjqnTLq5JTSDPcZSO5cXW">
+              <option name="activationTimestamp" value="1666204687091" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-222.4167.33" />
+              <option name="buildTimestamp" value="1663231695933" />
+              <frame x="0" y="0" width="1359" height="1076" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1665031091730" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Repositories/JavaScriptTest">
+          <value>
+            <RecentProjectMetaInfo frameTitle="JavaScriptTest" projectWorkspaceId="2GMiUvCw435JzZ08WcLRL4dY5HO">
+              <option name="activationTimestamp" value="1666226747386" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-222.4345.23" />
+              <option name="buildTimestamp" value="1665410736737" />
+              <frame x="16" y="16" width="1884" height="1044" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1666204687500" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Repositories/poetry">
+          <value>
+            <RecentProjectMetaInfo frameTitle="poetry – ~/.config/JetBrains/PyCharm2022.2/scratches/scratch.py" projectWorkspaceId="2FNEKxzKpNDMbOB9h87tSBzHdv6">
+              <option name="activationTimestamp" value="1666725601257" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-222.4345.23" />
+              <option name="buildTimestamp" value="1665410714026" />
+              <frame x="968" y="16" width="936" height="1048" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1666725582098" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/Simple Chatty Bot">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Simple Chatty Bot – bot.py" opened="true" projectWorkspaceId="2Gdjv0NhkS64bjuzDR7iuNRY8aI">
+              <option name="activationTimestamp" value="1666727375789" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-222.4345.23" />
+              <option name="buildTimestamp" value="1665410737899" />
+              <frame x="0" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1666725605003" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/PycharmProjects/Simple Chatty Bot" />
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

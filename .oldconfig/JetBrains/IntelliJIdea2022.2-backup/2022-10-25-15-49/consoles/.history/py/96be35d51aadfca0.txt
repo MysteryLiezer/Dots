@@ -1,0 +1,248 @@
+2+3
+-. . -..- - / . -. - .-. -.--
+day_of_week = "Monday"
+-. . -..- - / . -. - .-. -.--
+print(type(day_of_week))
+-. . -..- - / . -. - .-. -.--
+day_of_week = "Thursday"
+-. . -..- - / . -. - .-. -.--
+print(day_of_week)
+-. . -..- - / . -. - .-. -.--
+a = 10
+-. . -..- - / . -. - .-. -.--
+b = a
+-. . -..- - / . -. - .-. -.--
+a == b
+-. . -..- - / . -. - .-. -.--
+multiply(1, 7)
+-. . -..- - / . -. - .-. -.--
+print("Hello, world!")
+-. . -..- - / . -. - .-. -.--
+print("Hello, world!")
+print()
+print("Bye,", "world!")
+-. . -..- - / . -. - .-. -.--
+float(5)
+-. . -..- - / . -. - .-. -.--
+min(3, 4, 2, 8, 23)
+-. . -..- - / . -. - .-. -.--
+len("Fortitude")
+-. . -..- - / . -. - .-. -.--
+number = "111"
+-. . -..- - / . -. - .-. -.--
+print(len(number))
+-. . -..- - / . -. - .-. -.--
+integer = int(34.54)
+-. . -..- - / . -. - .-. -.--
+float_number = float(34)
+-. . -..- - / . -. - .-. -.--
+print(my_sum)
+-. . -..- - / . -. - .-. -.--
+print(round(my_sum))
+-. . -..- - / . -. - .-. -.--
+integer = 3
+-. . -..- - / . -. - .-. -.--
+float_number = 5.4
+-. . -..- - / . -. - .-. -.--
+my_sum = sum((integer, float_number))
+-. . -..- - / . -. - .-. -.--
+print(min(integer, float_number))
+-. . -..- - / . -. - .-. -.--
+print(type(max(integer, float_number, my_sum)))
+-. . -..- - / . -. - .-. -.--
+help(len)
+-. . -..- - / . -. - .-. -.--
+help(print)
+-. . -..- - / . -. - .-. -.--
+print(type(print))
+-. . -..- - / . -. - .-. -.--
+string = input()
+print(len(string))
+-. . -..- - / . -. - .-. -.--
+string = input()
+-. . -..- - / . -. - .-. -.--
+hello
+-. . -..- - / . -. - .-. -.--
+print(len(string))
+-. . -..- - / . -. - .-. -.--
+string = input()
+print("Hello,", string)
+-. . -..- - / . -. - .-. -.--
+string = input('Please, enter your name: ')
+print("Hello,", string)
+-. . -..- - / . -. - .-. -.--
+Reggy
+-. . -..- - / . -. - .-. -.--
+help(dif)
+-. . -..- - / . -. - .-. -.--
+8 - 11
+-. . -..- - / . -. - .-. -.--
+-11 % 5
+-. . -..- - / . -. - .-. -.--
+type(0)
+-. . -..- - / . -. - .-. -.--
+list_out_of_string = list('danger!')
+-. . -..- - / . -. - .-. -.--
+print(list_out_of_string)
+-. . -..- - / . -. - .-. -.--
+print(max(list_out_of_string))
+-. . -..- - / . -. - .-. -.--
+list_out_of_string = list('danger')
+-. . -..- - / . -. - .-. -.--
+print(min(list_out_of_string))
+-. . -..- - / . -. - .-. -.--
+7.1 / 100
+-. . -..- - / . -. - .-. -.--
+14 // 6
+-. . -..- - / . -. - .-. -.--
+23 * 4
+-. . -..- - / . -. - .-. -.--
+str.upper()
+-. . -..- - / . -. - .-. -.--
+str.upper(self)
+-. . -..- - / . -. - .-. -.--
+a = stringy
+-. . -..- - / . -. - .-. -.--
+a = test
+-. . -..- - / . -. - .-. -.--
+a = "test"
+-. . -..- - / . -. - .-. -.--
+print(test.upper())
+-. . -..- - / . -. - .-. -.--
+print(a.upper())
+-. . -..- - / . -. - .-. -.--
+a = a.upper()
+-. . -..- - / . -. - .-. -.--
+print(a)
+-. . -..- - / . -. - .-. -.--
+a.lstrip([chars])
+-. . -..- - / . -. - .-. -.--
+a.lstrip(chars)
+-. . -..- - / . -. - .-. -.--
+a.lstrip()
+-. . -..- - / . -. - .-. -.--
+a.lstrip(char)
+-. . -..- - / . -. - .-. -.--
+a.lstrip(chr)
+-. . -..- - / . -. - .-. -.--
+a.lstrip([chr])
+-. . -..- - / . -. - .-. -.--
+a.lstrip("TE")
+-. . -..- - / . -. - .-. -.--
+a.lstrip("ST")
+-. . -..- - / . -. - .-. -.--
+a.rstrip("TE")
+-. . -..- - / . -. - .-. -.--
+a.rstrip("ST")
+-. . -..- - / . -. - .-. -.--
+word = 'Mississippi'
+-. . -..- - / . -. - .-. -.--
+print(word.rstrip("isp"))
+-. . -..- - / . -. - .-. -.--
+word.rstrip("isp")
+-. . -..- - / . -. - .-. -.--
+value = '\n'
+-. . -..- - / . -. - .-. -.--
+len(repr(value))
+-. . -..- - / . -. - .-. -.--
+name, surname = 'Mike'
+-. . -..- - / . -. - .-. -.--
+name, surname = input()
+-. . -..- - / . -. - .-. -.--
+name, surname = str(input())
+-. . -..- - / . -. - .-. -.--
+test, this
+-. . -..- - / . -. - .-. -.--
+test
+-. . -..- - / . -. - .-. -.--
+name, surname = input().split()
+-. . -..- - / . -. - .-. -.--
+test this
+-. . -..- - / . -. - .-. -.--
+print(name)
+-. . -..- - / . -. - .-. -.--
+print(surname)
+-. . -..- - / . -. - .-. -.--
+1
+-. . -..- - / . -. - .-. -.--
+x, y = input().split()
+-. . -..- - / . -. - .-. -.--
+3 2 1
+-. . -..- - / . -. - .-. -.--
+def check(x,y,oper):
+    msg = ""
+    if is_one_digit(x) and is_one_digit(y) == True:
+        msg += msg_6
+    elif (x == 1 or y == 1) and oper == "*":
+        msg += msg_7
+    elif (x == 0 or y == 0) and (oper == "*" or oper == "+" or oper == "-"):
+        msg += msg_8
+    elif msg != "":
+        msg = msg_9 + msg
+        print(msg)
+
+-. . -..- - / . -. - .-. -.--
+check(2, 3, '*')
+-. . -..- - / . -. - .-. -.--
+def is_one_digit(v):
+    if (v > -10 and v < 10) and v.is_integer() == True:
+        output = True
+    else:
+        output = False
+    return output
+
+-. . -..- - / . -. - .-. -.--
+check(2,3,'*')
+-. . -..- - / . -. - .-. -.--
+check(2.0, 3.0. '*')
+-. . -..- - / . -. - .-. -.--
+msg_0 = "Enter an equation"
+msg_1 = "Do you even know what numbers are? Stay focused!"
+msg_2 = "Yes ... an interesting math operation. You've slept through all classes, haven't you?"
+msg_3 = "Yeah... division by zero. Smart move..."
+msg_4 = "Do you want to store the result? (y / n):"
+msg_5 = "Do you want to continue calculations? (y / n):"
+msg_6 = " ... lazy"
+msg_7 = " ... very lazy"
+msg_8 = " ... very, very lazy"
+msg_9 = "You are"
+
+memory = 0
+answer = ""
+cont = ""
+bacon = True
+
+-. . -..- - / . -. - .-. -.--
+check(2.0, 3.0, '*')
+-. . -..- - / . -. - .-. -.--
+msg_9 = 'Test9'
+-. . -..- - / . -. - .-. -.--
+msg_index = 9
+-. . -..- - / . -. - .-. -.--
+print(msg_[msg_index])
+-. . -..- - / . -. - .-. -.--
+print(msg_(msg_index))
+-. . -..- - / . -. - .-. -.--
+msg_index = '9'
+-. . -..- - / . -. - .-. -.--
+print(msg_{msg_index})
+-. . -..- - / . -. - .-. -.--
+ticket = input().split()
+-. . -..- - / . -. - .-. -.--
+234567
+-. . -..- - / . -. - .-. -.--
+print(ticket)
+-. . -..- - / . -. - .-. -.--
+ticket = input()
+-. . -..- - / . -. - .-. -.--
+243234
+-. . -..- - / . -. - .-. -.--
+ticket_list = [int(x) for x in str(ticket)]
+-. . -..- - / . -. - .-. -.--
+print(ticket_list)
+-. . -..- - / . -. - .-. -.--
+type(ticket_list[0])
+-. . -..- - / . -. - .-. -.--
+sum(ticket_list)
+-. . -..- - / . -. - .-. -.--
+sum(ticket_list[0:3])

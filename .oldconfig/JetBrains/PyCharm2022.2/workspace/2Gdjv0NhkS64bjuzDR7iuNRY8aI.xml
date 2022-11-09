@@ -1,0 +1,145 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Simple Chatty Bot" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Simple Chatty Bot/task/bot/bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="15" lastUsed="1666727166918" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="15" lastUsage="1666727166918" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Simple_Chatty_Bot_Print_your_name - 2022.10.25 at 15h 22m 29s.xml">
+      <configuration name="Simple Chatty Bot/Print your name" configurationId="ccruntests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="555000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" show_stripe_button="false" weight="0.3300926" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" id="Task" visible="true" weight="0.32994792" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+    </layoutV2>
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.25" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Endpoints" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="1" />
+      <window_info anchor="right" id="Task" order="2" visible="true" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Notifications" order="5" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Task</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="216" width="1084" height="647" key="#Run/Debug_Configuration_Templates" timestamp="1666727216265">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="216" width="1084" height="647" key="#Run/Debug_Configuration_Templates/0.0.1920.1080@0.0.1920.1080" timestamp="1666727216265" />
+    <state x="440" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1666727228214">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1666727228214" />
+    <state width="1838" height="314" key="GridCell.Tab.0.bottom" timestamp="1666727377042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1666727377042" />
+    <state width="1838" height="314" key="GridCell.Tab.0.center" timestamp="1666727377042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="314" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1666727377042" />
+    <state width="1838" height="314" key="GridCell.Tab.0.left" timestamp="1666727377042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="314" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1666727377042" />
+    <state width="1838" height="314" key="GridCell.Tab.0.right" timestamp="1666727377042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="314" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1666727377042" />
+    <state x="546" y="171" key="Registry" timestamp="1666727154021">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="546" y="171" key="Registry/0.0.1920.1080@0.0.1920.1080" timestamp="1666727154021" />
+    <state x="457" y="190" key="SettingsEditor" timestamp="1666727140023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="457" y="190" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1666727140023" />
+    <state x="623" y="228" width="672" height="715" key="search.everywhere.popup" timestamp="1666727146688">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="228" width="672" height="715" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1666727146688" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Simple Chatty Bot/task/bot/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

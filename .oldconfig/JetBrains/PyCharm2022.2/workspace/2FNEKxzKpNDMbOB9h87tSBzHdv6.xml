@@ -1,0 +1,275 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="poetry" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:actions" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:neersighted" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/install-poetry.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8756">
+              <caret line="415" selection-start-line="415" selection-end-line="415" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Dummies/fibo.py/fibo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="41" lastUsed="1666725461861" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1664722789643" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/fibo.py" />
+      <option value="$PROJECT_DIR$/../Dummies/fibo.py/fibo.py" />
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="41" lastUsage="1666725461861" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79795000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+    </layoutV2>
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18828125" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.3303232" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.40046299" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.2986111" />
+      <window_info anchor="bottom" id="Problems View" order="8" weight="0.3300926" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Endpoints" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="SciView" order="1" weight="0.32994792" />
+      <window_info anchor="right" id="Key Promoter X" order="2" weight="0.32994792" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="3" weight="0.32994792" />
+      <window_info anchor="right" id="Notifications" order="4" weight="0.2502604" />
+    </layout>
+    <recentWindows>
+      <value>Python Console</value>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>github.copilotToolWindow</value>
+      <value>Key Promoter X</value>
+      <value>SciView</value>
+      <value>Database</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="78" y="250" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1665025117131">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="78" y="250" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1665025117131" />
+    <state x="748" y="313" key="FileChooserDialogImpl" timestamp="1665031082234">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="313" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1665031082234" />
+    <state x="748" y="1393" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1664367247001" />
+    <state width="1025" height="319" key="GridCell.Tab.0.bottom" timestamp="1665031091470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1080/0.1080.1920.1080@0.0.1920.1080" timestamp="1664884154504" />
+    <state width="1874" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1080/0.1080.1920.1080@0.1080.1920.1080" timestamp="1664762618457" />
+    <state width="1025" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1665031091470" />
+    <state width="1874" height="328" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1664891254955" />
+    <state width="1874" height="328" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1664412254609" />
+    <state width="1025" height="319" key="GridCell.Tab.0.center" timestamp="1665031091470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="328" key="GridCell.Tab.0.center/0.0.1920.1080/0.1080.1920.1080@0.0.1920.1080" timestamp="1664884154504" />
+    <state width="1874" height="328" key="GridCell.Tab.0.center/0.0.1920.1080/0.1080.1920.1080@0.1080.1920.1080" timestamp="1664762618457" />
+    <state width="1025" height="319" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1665031091470" />
+    <state width="1874" height="328" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1664891254955" />
+    <state width="1874" height="328" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1664412254609" />
+    <state width="1025" height="319" key="GridCell.Tab.0.left" timestamp="1665031091470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="328" key="GridCell.Tab.0.left/0.0.1920.1080/0.1080.1920.1080@0.0.1920.1080" timestamp="1664884154504" />
+    <state width="1874" height="328" key="GridCell.Tab.0.left/0.0.1920.1080/0.1080.1920.1080@0.1080.1920.1080" timestamp="1664762618457" />
+    <state width="1025" height="319" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1665031091470" />
+    <state width="1874" height="328" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1664891254955" />
+    <state width="1874" height="328" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1664412254609" />
+    <state width="1025" height="319" key="GridCell.Tab.0.right" timestamp="1665031091470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="328" key="GridCell.Tab.0.right/0.0.1920.1080/0.1080.1920.1080@0.0.1920.1080" timestamp="1664884154504" />
+    <state width="1874" height="328" key="GridCell.Tab.0.right/0.0.1920.1080/0.1080.1920.1080@0.1080.1920.1080" timestamp="1664762618457" />
+    <state width="1025" height="319" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1665031091470" />
+    <state width="1874" height="328" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1664891254955" />
+    <state width="1874" height="328" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1664412254609" />
+    <state width="1874" height="404" key="GridCell.Tab.1.bottom" timestamp="1664722777462">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="404" key="GridCell.Tab.1.bottom/0.0.1920.1080/0.1080.1920.1080@0.1080.1920.1080" timestamp="1664722777462" />
+    <state width="1874" height="404" key="GridCell.Tab.1.center" timestamp="1664722777462">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="404" key="GridCell.Tab.1.center/0.0.1920.1080/0.1080.1920.1080@0.1080.1920.1080" timestamp="1664722777462" />
+    <state width="1874" height="404" key="GridCell.Tab.1.left" timestamp="1664722777462">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="404" key="GridCell.Tab.1.left/0.0.1920.1080/0.1080.1920.1080@0.1080.1920.1080" timestamp="1664722777462" />
+    <state width="1874" height="404" key="GridCell.Tab.1.right" timestamp="1664722777462">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="404" key="GridCell.Tab.1.right/0.0.1920.1080/0.1080.1920.1080@0.1080.1920.1080" timestamp="1664722777462" />
+    <state x="533" y="168" key="Registry" timestamp="1666725454348">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="533" y="168" key="Registry/0.0.1920.1080@0.0.1920.1080" timestamp="1666725454348" />
+    <state x="454" y="190" key="SettingsEditor" timestamp="1666725379267">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="454" y="1270" key="SettingsEditor/0.0.1920.1080/0.1080.1920.1080@0.1080.1920.1080" timestamp="1664762203377" />
+    <state x="454" y="190" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1666725379267" />
+    <state x="454" y="1270" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1664426658347" />
+    <state x="187" y="273" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1665030732852">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="187" y="273" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1665030732852" />
+    <state x="623" y="239" width="672" height="704" key="search.everywhere.popup" timestamp="1666725418742">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="239" width="672" height="704" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1666725418742" />
+    <state x="623" y="1319" width="672" height="687" key="search.everywhere.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1664404901392" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fibo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install-poetry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8756">
+          <caret line="415" selection-start-line="415" selection-end-line="415" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dummies/fibo.py/fibo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

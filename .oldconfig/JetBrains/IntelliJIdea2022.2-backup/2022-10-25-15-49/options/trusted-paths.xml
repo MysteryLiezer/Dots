@@ -1,0 +1,23 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/.webprojects/AnotherTest" value="true" />
+        <entry key="$USER_HOME$/.webprojects/Honest Calculator" value="true" />
+        <entry key="$USER_HOME$/.webprojects/Simple Chatty Bot" value="true" />
+        <entry key="$USER_HOME$/.webprojects/Zookeeper" value="true" />
+        <entry key="$USER_HOME$/.webprojects/test-site" value="true" />
+        <entry key="$USER_HOME$/Repositories/JavaScriptTest" value="true" />
+        <entry key="$USER_HOME$/Repositories/poetry" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Repositories" />
+        <option value="$USER_HOME$/.webprojects" />
+      </list>
+    </option>
+  </component>
+</application>

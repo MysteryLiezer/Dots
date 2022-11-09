@@ -1,0 +1,120 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="xmonad.hs" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/.config/xmonad/xmonad.hs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Haskell">
+      <summary usageCount="1" lastUsed="1667058851055" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$USER_HOME$/.config/xmonad</dir>
+    </dirStrings>
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/.config/xmonad/xmonad.hs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Haskell">
+      <summary usageCount="1" lastUsage="1667058851055" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xmonad.hs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xmonad.hs" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2782000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22395834" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" weight="0.3300926" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+    </layoutV2>
+    <recentWindows>
+      <value>Find</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="198" width="1040" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667061626775">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="104" y="198" width="1040" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1667061626775" />
+    <state x="560" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1667058864616">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1667058864616" />
+    <state x="445" y="135" width="651" height="796" key="find.popup" timestamp="1667059150654">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="445" y="135" width="651" height="796" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1667059150654" />
+    <state x="344" y="228" width="672" height="715" key="search.everywhere.popup" timestamp="1667059126694">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="344" y="228" width="672" height="715" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1667059126694" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.config/xmonad/xmonad.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

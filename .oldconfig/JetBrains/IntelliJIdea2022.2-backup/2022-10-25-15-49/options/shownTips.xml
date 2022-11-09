@@ -1,0 +1,16 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="CheckRegExp.html" value="1664327321494" />
+        <entry key="DiffChevron.html" value="1666453686644" />
+        <entry key="GotoLineInFile.html" value="1666615162272" />
+        <entry key="OverrideImplementMethods.html" value="1664327332688" />
+        <entry key="SearchEverywhere.html" value="1666204878830" />
+        <entry key="SpeedSearch.html" value="1666705606165" />
+        <entry key="WildcardsInNavigationPopups.html" value="1664327330226" />
+        <entry key="search_everywhere_general.html" value="1666294041016" />
+      </map>
+    </option>
+  </component>
+</application>

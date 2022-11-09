@@ -1,0 +1,158 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="hbook" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Setup.hs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Cabal">
+      <summary usageCount="1" lastUsed="1667065306487" />
+    </fileType>
+    <fileType name="Haskell">
+      <summary usageCount="2" lastUsed="1667065309888" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1667065258155" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Setup.hs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Cabal">
+      <summary usageCount="1" lastUsage="1667065306487" />
+    </language>
+    <language id="Haskell">
+      <summary usageCount="2" lastUsage="1667065309888" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1667065258156" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Course" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Haskell Stack.Tests" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="865000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25052083" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" show_stripe_button="false" weight="0.3300926" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="198" width="1040" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667065360279">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="198" width="1040" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1667065360279" />
+    <state x="268" y="313" key="FileChooserDialogImpl" timestamp="1667065372387">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="268" y="313" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1667065372387" />
+    <state width="878" height="314" key="GridCell.Tab.0.bottom" timestamp="1667066625713">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="878" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1667066625713" />
+    <state width="878" height="314" key="GridCell.Tab.0.center" timestamp="1667066625713">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="878" height="314" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1667066625713" />
+    <state width="878" height="314" key="GridCell.Tab.0.left" timestamp="1667066625713">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="878" height="314" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1667066625713" />
+    <state width="878" height="314" key="GridCell.Tab.0.right" timestamp="1667066625713">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="878" height="314" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1667066625713" />
+    <state x="68" y="289" key="IDE.errors.dialog" timestamp="1667065279938">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="68" y="289" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1667065279938" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbook.cabal">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-534" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Setup.hs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

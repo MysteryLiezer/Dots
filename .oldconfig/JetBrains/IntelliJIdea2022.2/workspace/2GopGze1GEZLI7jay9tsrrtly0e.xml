@@ -1,0 +1,385 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/xmonad.hs" />
+              <entry key="line" value="178" />
+            </attributes>
+            <option name="description" value="treeselectAction :: TS.TSConfig (X ()) -&gt; X ()" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+            <option name="type" value="LETTER_A" />
+          </BookmarkState>
+        </option>
+        <option name="default" value="true" />
+        <option name="name" value="IdeaVim" />
+      </GroupState>
+      <GroupState>
+        <option name="name" value="xmonad" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xmonad.hs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="925" column="75" selection-start-line="925" selection-start-column="75" selection-end-line="925" selection-end-column="75" />
+              <folding>
+                <element signature="e#10#3555#0" />
+                <element signature="e#4789#5469#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xmonad_keys.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.org">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13684">
+              <caret line="622" column="48" selection-start-line="622" selection-start-column="48" selection-end-line="622" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.hs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Haskell">
+      <summary usageCount="26" lastUsed="1667416361545" />
+    </fileType>
+    <fileType name="OrgMode">
+      <summary usageCount="16" lastUsed="1667416361504" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="25" lastUsed="1667416361569" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="2" lastUsed="1667150584645" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="20" lastUsed="1667416361434" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1667176448629" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>C://</find>
+      <find>`2`</find>
+      <find>`4'</find>
+      <find>@Applications</find>
+      <find>#Browsers</find>
+      <find>|Scratch|</find>
+      <find>ticktick</find>
+      <find>h]</find>
+      <find>{Hacking}.$Terminals</find>
+      <find>{Hacking}</find>
+      <find>&lt;</find>
+      <find>{Hacking}.@Applications</find>
+      <find>{Hacking}.#Browsers.</find>
+      <find>{Programming}.$Terminals.</find>
+      <find>{Misc}.@Applications.</find>
+      <find>s&gt;.1&gt;</find>
+      <find>s~.~4</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>@</replace>
+      <replace>+1</replace>
+      <replace>+2</replace>
+      <replace>+3</replace>
+      <replace>+4</replace>
+      <replace>TS.Node</replace>
+      <replace>TS.Noden</replace>
+      <replace>(Terminals)</replace>
+      <replace>(Applications)</replace>
+      <replace>(Browsers)</replace>
+      <replace>(Scratch)</replace>
+      <replace>https://ticktick.com</replace>
+      <replace>{Hacking}.$Terminals&gt;</replace>
+      <replace>{Hacking}.@Applications&gt;</replace>
+      <replace>{Hacking}.@Applications&gt;.</replace>
+      <replace>{Hacking}.#Browsers&gt;.</replace>
+      <replace>{Programming}.$Terminals&lt;.</replace>
+      <replace>{Programming}.@Applications&lt;.</replace>
+      <replace>{Misc}.@Applications~.</replace>
+      <replace>s~.4~</replace>
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.org" />
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.hs" />
+      <option value="$PROJECT_DIR$/xmonad.hs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Haskell">
+      <summary usageCount="25" lastUsage="1667416361545" />
+    </language>
+    <language id="OrgMode">
+      <summary usageCount="16" lastUsage="1667416361504" />
+    </language>
+    <language id="Python">
+      <summary usageCount="2" lastUsage="1667150584645" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="20" lastUsage="1667416361434" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="25" lastUsage="1667416361569" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1667176448629" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xmonad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </path>
+            <path>
+              <item name="xmonad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Scratches" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="152737000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info id="Bookmarks" weight="0.18307292" />
+      <window_info id="Learn" weight="0.18307292" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18307292" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.3515625" />
+      <window_info anchor="bottom" id="Python Packages" weight="0.3300926" />
+      <window_info anchor="bottom" id="TODO" weight="0.3300926" />
+      <window_info anchor="bottom" id="Endpoints" weight="0.3300926" />
+      <window_info anchor="bottom" id="Services" weight="0.3300926" />
+      <window_info anchor="bottom" id="Profiler" weight="0.3300926" />
+      <window_info anchor="bottom" id="Find" weight="0.3300926" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3300926" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3300926" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" weight="0.3513021" />
+      <window_info anchor="right" id="Key Promoter X" weight="0.14869791" />
+      <window_info anchor="right" id="SciView" weight="0.14869791" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.14869791" />
+      <window_info anchor="right" id="Database" order="1" weight="0.14869791" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+    </layoutV2>
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.2502604" />
+      <window_info id="Learn" order="2" visible="true" weight="0.32994792" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Endpoints" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Notifications" order="4" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Learn</value>
+      <value>Bookmarks</value>
+      <value>Structure</value>
+      <value>github.copilotToolWindow</value>
+      <value>Key Promoter X</value>
+      <value>SciView</value>
+      <value>Notifications</value>
+      <value>Problems View</value>
+      <value>Find</value>
+      <value>Database</value>
+      <value>TODO</value>
+      <value>Services</value>
+      <value>Python Packages</value>
+      <value>Profiler</value>
+      <value>Endpoints</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="120" y="228" width="827" height="647" key="#Run/Debug_Configuration_Templates" timestamp="1667064768597">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="120" y="228" width="827" height="647" key="#Run/Debug_Configuration_Templates/0.0.1920.1080@0.0.1920.1080" timestamp="1667064768597" />
+    <state x="0" y="198" width="1040" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667064967931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="198" width="1040" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1667064967931" />
+    <state x="268" y="313" key="FileChooserDialogImpl" timestamp="1667065249851">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="268" y="313" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1667065249851" />
+    <state x="97" y="179" key="NewModule_or_Project.wizard" timestamp="1667065254761">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="97" y="179" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1667065254761" />
+    <state x="524" y="168" key="Registry" timestamp="1667347958235">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="524" y="168" key="Registry/0.0.1920.1080@0.0.1920.1080" timestamp="1667347958235" />
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor" timestamp="1667404234907">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1920" height="1080" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1667404234907" />
+    <state x="448" y="263" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1667246390056">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="263" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1667246390056" />
+    <state x="445" y="135" width="715" height="604" key="find.popup" timestamp="1667418443518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="445" y="135" width="715" height="604" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1667418443518" />
+    <state x="609" y="274" width="700" height="530" key="recent.locations.popup" timestamp="1667347119352">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="609" y="274" width="700" height="530" key="recent.locations.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1667347119352" />
+    <state x="143" y="228" width="672" height="715" key="search.everywhere.popup" timestamp="1667418453503">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="143" y="228" width="672" height="715" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1667418453503" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.org" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$PROJECT_DIR$/xmonadctl.hs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-492" />
+      </provider>
+    </entry>
+    <entry file="file:///tmp/test.txt" />
+    <entry file="file://$PROJECT_DIR$/xmonad.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="925" column="75" selection-start-line="925" selection-start-column="75" selection-end-line="925" selection-end-column="75" />
+          <folding>
+            <element signature="e#10#3555#0" />
+            <element signature="e#4789#5469#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmonad_keys.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.org">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13684">
+          <caret line="622" column="48" selection-start-line="622" selection-start-column="48" selection-end-line="622" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.hs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

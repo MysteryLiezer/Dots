@@ -1,0 +1,108 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2FNEKxzKpNDMbOB9h87tSBzHdv6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FkLN5WjqnTLq5JTSDPcZSO5cXW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GMi7ezTfasfUMnpOvbyghb2nF4">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GMiUvCw435JzZ08WcLRL4dY5HO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gdjv0NhkS64bjuzDR7iuNRY8aI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+  </component>
+  <component name="HyperskillSettings">
+    <option name="updateAutomatically" value="true" />
+    <HyperskillAccount>
+      <option name="tokenExpiresIn" value="1666761574" />
+      <option name="email" value="reggyelizer@gmail.com" />
+      <option name="fullname" value="Reggy Elizer" />
+      <option name="guest" value="false" />
+      <option name="hyperskillProjectId" value="97" />
+      <option name="id" value="330950200" />
+    </HyperskillAccount>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Edu.CourseCreator.Enabled": "true",
+    "Educational.recentCoursesFilled": "true",
+    "Educational.stepikOAuthReset": "true",
+    "ExpandBeforeRunStepsPanel": "true",
+    "InstalledPluginsSearchHistory": "edutools\nedutool\nedutoo\neduto\nedut",
+    "KEYMAP": "exit insert mode",
+    "MarketplacePluginsSearchHistory": "edutools\nnumpy\n/tag:Keymap\ncopilot\ncop",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "RegistryRecentKeys": "ide.experimental.ui=ide.experimental.ui.navbar.scroll=ide.experimental.ui.inter.font",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "PY-222.4345.23-3a2a2caa4a9c0af0308f1e0be7a7168971775a1be423896d1480bbeb35e73edd",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PY-222.4345.23",
+    "com.jetbrains.edu.LAST_UPDATE": "1666725582179",
+    "evlsprt3.222": "26",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "5",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.python.console.command.queue.show": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "PY-222.4345.23",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1666725336897",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/farhan/Repositories/poetry",
+    "mt.autoReset": "true",
+    "mt.showInstallAtom": "true",
+    "mt.showStatisticsAgreement": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "PY-222.4345.23",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/farhan/Repositories/poetry",
+      "/home/farhan/Repositories/JavaScriptTest",
+      "/home/farhan/Repositories/FluentPython/example-code-2e"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

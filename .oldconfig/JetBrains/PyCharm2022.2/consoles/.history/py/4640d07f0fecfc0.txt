@@ -1,0 +1,945 @@
+raw_data = [56.2, float('NaN'), 51.7, 55.3, 52.5, float('NaN'), 47.8]
+-. . -..- - / . -. - .-. -.--
+filtered_data = []
+-. . -..- - / . -. - .-. -.--
+for value in raw_data:
+    if not math.isnan(value):
+        filtered_data.append(value)
+        
+-. . -..- - / . -. - .-. -.--
+raw_data
+-. . -..- - / . -. - .-. -.--
+filtered_data
+-. . -..- - / . -. - .-. -.--
+string1, string2, string3 = '', 'Trondheim', 'Hammer Dance'
+-. . -..- - / . -. - .-. -.--
+non_null = string1 or string2 or string3
+-. . -..- - / . -. - .-. -.--
+non_null = string3 or string2 or string1
+-. . -..- - / . -. - .-. -.--
+non_null = string1 and string2 or string3
+-. . -..- - / . -. - .-. -.--
+non_null = string1 or string2 and string3
+-. . -..- - / . -. - .-. -.--
+non_null
+-. . -..- - / . -. - .-. -.--
+(1, 2, 3) < (1, 2, 4)
+-. . -..- - / . -. - .-. -.--
+[1, 2, 3] < [1, 2, 4]
+-. . -..- - / . -. - .-. -.--
+'ABC' < 'C' < 'Pascal' < 'Python'
+-. . -..- - / . -. - .-. -.--
+(1, 2, 3, 4) < (1, 2, 4)
+-. . -..- - / . -. - .-. -.--
+(1, 2) > (1, 2, -1)
+-. . -..- - / . -. - .-. -.--
+(1, 2) < (1, 2, -1)
+-. . -..- - / . -. - .-. -.--
+(1, 2, 3) == (1.0, 2.0, 3.0)
+-. . -..- - / . -. - .-. -.--
+(1, 2, ('aa', 'ab')) < (1, 2, ('abc', 'a'), 4)
+-. . -..- - / . -. - .-. -.--
+fibo.fib(1000)
+-. . -..- - / . -. - .-. -.--
+fibo.fib2(100)
+-. . -..- - / . -. - .-. -.--
+fibo.__name__
+-. . -..- - / . -. - .-. -.--
+from fibo import fib, fib2
+-. . -..- - / . -. - .-. -.--
+from fibo import *
+-. . -..- - / . -. - .-. -.--
+fib(500)
+-. . -..- - / . -. - .-. -.--
+import fibo as fib
+-. . -..- - / . -. - .-. -.--
+fib.fib(500)
+-. . -..- - / . -. - .-. -.--
+from fibo import fib as fibonacci
+-. . -..- - / . -. - .-. -.--
+fibonacci(500)
+-. . -..- - / . -. - .-. -.--
+sys.ps1
+-. . -..- - / . -. - .-. -.--
+sys
+-. . -..- - / . -. - .-. -.--
+import fibo, sys
+-. . -..- - / . -. - .-. -.--
+dir(fibo)
+-. . -..- - / . -. - .-. -.--
+dir(sys)
+-. . -..- - / . -. - .-. -.--
+a = [1, 2, 3, 4, 5]
+-. . -..- - / . -. - .-. -.--
+import fibo
+-. . -..- - / . -. - .-. -.--
+fib = fibo.fib
+-. . -..- - / . -. - .-. -.--
+dir()
+-. . -..- - / . -. - .-. -.--
+import builtins
+-. . -..- - / . -. - .-. -.--
+dir(builtins)
+-. . -..- - / . -. - .-. -.--
+import sound.effects.echo
+-. . -..- - / . -. - .-. -.--
+import sound
+-. . -..- - / . -. - .-. -.--
+import sount.effects.surround
+-. . -..- - / . -. - .-. -.--
+from sound.effects import*
+-. . -..- - / . -. - .-. -.--
+from sound.effects import *
+-. . -..- - / . -. - .-. -.--
+from . import echo
+-. . -..- - / . -. - .-. -.--
+year = 2016
+-. . -..- - / . -. - .-. -.--
+event = 'Referendum'
+-. . -..- - / . -. - .-. -.--
+f'Results of the {year} {event}'
+-. . -..- - / . -. - .-. -.--
+yes_votes = 42_572_654
+-. . -..- - / . -. - .-. -.--
+no_votes = 43_132_495
+-. . -..- - / . -. - .-. -.--
+percentage = yes_votes / (yes_votes + no_votes)
+-. . -..- - / . -. - .-. -.--
+'{:-9} YES votes  {:2.2%}'.format(yes_votes, percentage)
+-. . -..- - / . -. - .-. -.--
+s = 'Hello, world.'
+-. . -..- - / . -. - .-. -.--
+str(s)
+-. . -..- - / . -. - .-. -.--
+repr(s)
+-. . -..- - / . -. - .-. -.--
+str(1/7)
+-. . -..- - / . -. - .-. -.--
+x = 10 * 3.25
+-. . -..- - / . -. - .-. -.--
+y = 200 * 200
+-. . -..- - / . -. - .-. -.--
+s = 'The value of x is ' + repr(x) + ', and y is ' + repr(y) + '...'
+-. . -..- - / . -. - .-. -.--
+print(s)
+-. . -..- - / . -. - .-. -.--
+hello = 'hello, world\n'
+-. . -..- - / . -. - .-. -.--
+hellos = repr(hello)
+-. . -..- - / . -. - .-. -.--
+print(hellos)
+-. . -..- - / . -. - .-. -.--
+repr((x, y, ('spam', 'eggs')))
+-. . -..- - / . -. - .-. -.--
+print(f'The value of pi is approximately {math.pi:.3f}.')
+-. . -..- - / . -. - .-. -.--
+table = {'Sjoerd': 4127, 'Jack': 4098, 'Dcab': 7678}
+-. . -..- - / . -. - .-. -.--
+for name, phone in table.items():
+    print(f'{name:10} ==> {phone:10d}')
+    
+-. . -..- - / . -. - .-. -.--
+animals = 'eels'
+-. . -..- - / . -. - .-. -.--
+print(f'My hovercraft is full of {animals}.')
+-. . -..- - / . -. - .-. -.--
+print(f'My hovercraft is full of {animals!r}.')
+-. . -..- - / . -. - .-. -.--
+bugs = 'roaches'
+-. . -..- - / . -. - .-. -.--
+count = 13
+-. . -..- - / . -. - .-. -.--
+area = 'living room'
+-. . -..- - / . -. - .-. -.--
+print(f'Debugging {bugs=} {count=} {area=}')
+-. . -..- - / . -. - .-. -.--
+print('We are the {} who say "{}!"'.format('knights', 'Ni'))
+-. . -..- - / . -. - .-. -.--
+print('{0} and {1}'.format('spam', 'eggs'))
+-. . -..- - / . -. - .-. -.--
+print('{1} and {0}'.format('spam', 'eggs'))
+-. . -..- - / . -. - .-. -.--
+print('This {food} is {adjective}.'.format(
+    food='spam', adjective='absolutely horrible'))
+-. . -..- - / . -. - .-. -.--
+print('The story of {0}, {1}, and {other}.'.format('Bill', 'Manfred',
+                                                   other='Georg'))
+-. . -..- - / . -. - .-. -.--
+print('Jack: {0[Jack]:d}; Sjoerd: {0[Sjoerd]:d}; '
+      'Dcab: {0[Dcab]:d}'.format(table))
+-. . -..- - / . -. - .-. -.--
+table = {'Sjoerd': 4127, 'Jack': 4098, 'Dcab': 8637678}
+-. . -..- - / . -. - .-. -.--
+print('Jack: {Jack:d}; Sjoerd: {Sjoerd:d}; Dcab: {Dcab:d}'.format(**table))
+-. . -..- - / . -. - .-. -.--
+vars()
+-. . -..- - / . -. - .-. -.--
+for x in range(1, 11):
+    print('{0:2d} {1:3d} {2:4d}'.format(x, x*x, x*x*x))
+    
+-. . -..- - / . -. - .-. -.--
+for x in range(1, 11):
+    print(repr(x).rjust(2), repr(x*x).rjust(3), end=' ')
+    print(repr(x*x*x).rjust(4))
+    
+-. . -..- - / . -. - .-. -.--
+for x in range(1, 11):
+    print(repr(x).ljust(2)[:2}, repr(x*x).ljust(3)[:3], repr(x*x*x).ljust(4)[:4])
+
+-. . -..- - / . -. - .-. -.--
+for x in range(1, 11):
+    print(repr(x).ljust(2)[:2], repr(x*x).ljust(3)[:3], repr(x*x*x).ljust(4)[:4])
+
+-. . -..- - / . -. - .-. -.--
+'12'.zfill(5)
+-. . -..- - / . -. - .-. -.--
+'-3.14'.zfill(7)
+-. . -..- - / . -. - .-. -.--
+'3.14159265359'.zfill(5)
+-. . -..- - / . -. - .-. -.--
+print('The value of pi is approximately %5.3f.' % math.pi)
+-. . -..- - / . -. - .-. -.--
+print('The value of pi is approximately %6.3f.' % math.pi)
+-. . -..- - / . -. - .-. -.--
+print('The value of pi is approximately %7.3f.' % math.pi)
+-. . -..- - / . -. - .-. -.--
+with open('workfile', encoding="utf-8") as f:
+    read_data = f.read()
+
+-. . -..- - / . -. - .-. -.--
+f.closed
+-. . -..- - / . -. - .-. -.--
+f.close()
+-. . -..- - / . -. - .-. -.--
+with open('fibo.py', encoding="utf-8") as f:
+read_data = f.read()
+-. . -..- - / . -. - .-. -.--
+with open('fibo.py', encoding="utf-8") as f:
+    read_data = f.read()
+
+-. . -..- - / . -. - .-. -.--
+f.readline()
+-. . -..- - / . -. - .-. -.--
+f = open('fibo.py')
+-. . -..- - / . -. - .-. -.--
+for line in f:
+    print(line, end='')
+    
+-. . -..- - / . -. - .-. -.--
+f = open('fibo.py', 'r+', encoding="utf-8")
+-. . -..- - / . -. - .-. -.--
+f.write('This is a test\n')
+-. . -..- - / . -. - .-. -.--
+value = ('the answer', 42)
+-. . -..- - / . -. - .-. -.--
+s = str(value)
+-. . -..- - / . -. - .-. -.--
+f.write(s)
+-. . -..- - / . -. - .-. -.--
+f.read()
+-. . -..- - / . -. - .-. -.--
+f.tell()
+-. . -..- - / . -. - .-. -.--
+f.seek(offset)
+-. . -..- - / . -. - .-. -.--
+f = open('fibo.py', 'rb+')
+-. . -..- - / . -. - .-. -.--
+f.write(b'0123456789abcdef')
+-. . -..- - / . -. - .-. -.--
+f.seek(5)
+-. . -..- - / . -. - .-. -.--
+f.seek(-3, 2)
+-. . -..- - / . -. - .-. -.--
+f.read(1)
+-. . -..- - / . -. - .-. -.--
+import json
+-. . -..- - / . -. - .-. -.--
+x = [1, 'simple', 'list']
+-. . -..- - / . -. - .-. -.--
+json.dumps(x)
+-. . -..- - / . -. - .-. -.--
+json.dump(x, f)
+-. . -..- - / . -. - .-. -.--
+while True:
+    print('Hello world')
+    
+-. . -..- - / . -. - .-. -.--
+exit
+-. . -..- - / . -. - .-. -.--
+'2' + 2
+-. . -..- - / . -. - .-. -.--
+2 = 2
+-. . -..- - / . -. - .-. -.--
+'2' + '2'
+-. . -..- - / . -. - .-. -.--
+bltin-exceptions
+-. . -..- - / . -. - .-. -.--
+while True:
+    try:
+        x = int(input("Please enter a number: "))
+        break
+    except ValueError:
+        print("Oops! That was no valid number. Try again...")
+        
+-. . -..- - / . -. - .-. -.--
+23.2
+-. . -..- - / . -. - .-. -.--
+3.45
+-. . -..- - / . -. - .-. -.--
+3453
+-. . -..- - / . -. - .-. -.--
+class B(Exception):
+    pass
+class C(B):
+    pass
+class D(C):
+    pass
+for cls in [B, C, D]:
+    try:
+        raise cls()
+    except D:
+        print("D")
+    except C:
+        print("C")
+    except B:
+        print("B")
+        
+-. . -..- - / . -. - .-. -.--
+import sys
+-. . -..- - / . -. - .-. -.--
+try:
+    f = open('fibo.py')
+    s = f.readline()
+    i = int(s.strip())
+except OSError as err:
+    print("OS error: {0}".format(err))
+except ValueError:
+    print("Could not convert data to an integer.")
+except BaseException as err:
+    print(f"Unexpected {err=}, {type(err)=}")
+    raise
+
+-. . -..- - / . -. - .-. -.--
+try:
+    f = open('fibo.py')
+    s = f.readline()
+    i = int(s.strip())
+raise
+-. . -..- - / . -. - .-. -.--
+for arg in sys.argv[1:]:
+    try:
+        f = open(arg, 'r')
+    except OSError:
+        print('cannot open', arg)
+    else:
+        print(arg, 'has', len(f.readlines()), 'lines')
+        f.close()
+        
+-. . -..- - / . -. - .-. -.--
+try: 
+    raise Exception('spam', 'eggs')
+except Exception as inst:
+    print(type(inst))
+    print(inst.args)
+    print(inst)
+    
+-. . -..- - / . -. - .-. -.--
+try: 
+    raise Exception('spam', 'eggs')
+except Exception as inst:
+    print(type(inst))
+    print(inst.args)
+    print(inst)
+    x, y = inst.args
+    
+-. . -..- - / . -. - .-. -.--
+try: 
+    raise Exception('spam', 'eggs')
+except Exception as inst:
+    print(type(inst))
+    print(inst.args)
+    print(inst)
+    x, y = inst.args
+    print('x =', x)
+    print('y =', y)
+    
+-. . -..- - / . -. - .-. -.--
+def this_fails():
+    x = 1/0
+    
+-. . -..- - / . -. - .-. -.--
+try:
+    this_fails()
+except ZeroDivisionError as err:
+    print('Handling run-time error:', err)
+    
+-. . -..- - / . -. - .-. -.--
+raise NameError('HiThere')
+-. . -..- - / . -. - .-. -.--
+try:
+    raise NameError('HiThere')
+except NameError:
+    print('An exception flew by!')
+    raise
+
+-. . -..- - / . -. - .-. -.--
+raise RuntimeError from exc
+-. . -..- - / . -. - .-. -.--
+def func():
+    raise ConnectionError
+
+-. . -..- - / . -. - .-. -.--
+try:
+    func()
+except ConnectionError as exc:
+    raise RuntimeError('Failed to open database') from exc
+
+-. . -..- - / . -. - .-. -.--
+try:
+    open('database.sqlite')
+except OSerror:
+    raise RuntimeError from None
+
+-. . -..- - / . -. - .-. -.--
+try:
+    open('database.sqlite')
+except OSError:
+    raise RuntimeError from None
+
+-. . -..- - / . -. - .-. -.--
+try:
+    raise KeyboardInterrupt
+finally:
+    print('Goodbye, world!')
+    
+-. . -..- - / . -. - .-. -.--
+try:
+    raise KeyboardInterrupt
+finally:
+    print('Goodbye, world!')
+    break
+    
+-. . -..- - / . -. - .-. -.--
+try:
+    raise KeyboardInterrupt
+finally:
+    print('Goodbye, world!')
+break
+    
+-. . -..- - / . -. - .-. -.--
+try:
+    raise KeyboardInterrupt
+finally:
+    print('Goodbye, world!'):
+    break
+    
+-. . -..- - / . -. - .-. -.--
+try:
+    raise KeyboardInterrupt
+finally:
+    print('Goodbye, world!')
+        break
+    
+-. . -..- - / . -. - .-. -.--
+try:
+    raise KeyboardInterrupt
+finally:
+    print('Goodbye, world!')
+    return
+    
+-. . -..- - / . -. - .-. -.--
+try:
+    raise KeyboardInterrupt
+finally:
+    break
+    print('Goodbye, world!')
+    
+    
+-. . -..- - / . -. - .-. -.--
+try:
+    raise KeyboardInterrupt
+finally:
+    print('Goodbye, world!')
+    return True
+    
+-. . -..- - / . -. - .-. -.--
+def bool_return():
+    try:
+        return True
+    finally:
+        return False
+    
+-. . -..- - / . -. - .-. -.--
+bool_return()
+-. . -..- - / . -. - .-. -.--
+def divide(x, y):
+    try:
+        result = x / y
+    except ZeroDivisionError:
+        print("division by zero!")
+    finally:
+        print("executing finally clause")
+        
+-. . -..- - / . -. - .-. -.--
+divide(2, 1)
+-. . -..- - / . -. - .-. -.--
+def divide(x, y):
+    try:
+        result = x / y
+    except ZeroDivisionError:
+        print("division by zero!")
+    else:
+        print("result is", result)
+    finally:
+        print("executing finally clause")
+    
+-. . -..- - / . -. - .-. -.--
+divide(2,1)
+-. . -..- - / . -. - .-. -.--
+divide(2,0)
+-. . -..- - / . -. - .-. -.--
+divide("2", "1")
+-. . -..- - / . -. - .-. -.--
+for line in open("fibo.py"):
+    print(line, end="")
+    
+-. . -..- - / . -. - .-. -.--
+with open("fibo.py") as f:
+    for line in f:
+        print(line, end-"")
+        
+-. . -..- - / . -. - .-. -.--
+with open("fibo.py") as f:
+    for line in f:
+        print(line, end="")
+        
+-. . -..- - / . -. - .-. -.--
+def scope_test():
+    def do_local():
+        spam = "local spam"
+        
+-. . -..- - / . -. - .-. -.--
+def scope_test():
+    def do_local():
+        spam = "local spam"
+    def do_nonlocal():
+        nonlocal spam
+        spam = "nonlocal spam"
+    def do_global():
+        global spam
+        spam = "global spam"
+    spam = "test spam"
+    do_local()
+    print("After local assignment:", spam)
+    do_nonlocal()
+    print("After nonlocal assignment:", spam)
+    do_global()
+    print("After global assignments:", spam)
+    
+-. . -..- - / . -. - .-. -.--
+print("In global scope:", spam)
+-. . -..- - / . -. - .-. -.--
+scope_test()
+-. . -..- - / . -. - .-. -.--
+def scope_test():
+    def do_local():
+        spam = "local spam"
+    def do_nonlocal():
+        nonlocal spam
+        spam = "nonlocal spam"
+    def do_global():
+        global spam
+        spam = "global spam"
+    spam = "test spam"
+    do_local()
+    print("After local assignment:", spam)
+    do_nonlocal()
+    print("After nonlocal assignment:", spam)
+    do_global()
+    print("After global assignments:", spam)
+scope_test()
+-. . -..- - / . -. - .-. -.--
+scope_test()
+print("In global scope:", spam)
+-. . -..- - / . -. - .-. -.--
+class MyClass:
+    """A simple example class"""
+    i = 12345
+    def f(self):
+        return 'hello world'
+    
+-. . -..- - / . -. - .-. -.--
+MyClass.i
+-. . -..- - / . -. - .-. -.--
+MyClass.f()
+-. . -..- - / . -. - .-. -.--
+MyClass.f
+-. . -..- - / . -. - .-. -.--
+__doc__
+-. . -..- - / . -. - .-. -.--
+___doc___
+-. . -..- - / . -. - .-. -.--
+print(__doc__)
+-. . -..- - / . -. - .-. -.--
+print("__doc__")
+-. . -..- - / . -. - .-. -.--
+MyClass.__doc__
+-. . -..- - / . -. - .-. -.--
+def __init__(self):
+    self.data = []
+    
+-. . -..- - / . -. - .-. -.--
+class Complex:
+    def __init__(self, realpart, imagpart):
+        self.r = realpart
+        self.i = imagpart
+        
+-. . -..- - / . -. - .-. -.--
+x = Complex(3.0, -4.5)
+-. . -..- - / . -. - .-. -.--
+x.r, x.i
+-. . -..- - / . -. - .-. -.--
+x.counter = 1
+-. . -..- - / . -. - .-. -.--
+while x.counter < 10:
+    x.counter = x.counter * 2
+print(x.counter)
+-. . -..- - / . -. - .-. -.--
+del x.counter
+-. . -..- - / . -. - .-. -.--
+x = MyClass()
+-. . -..- - / . -. - .-. -.--
+xf = x.f
+-. . -..- - / . -. - .-. -.--
+while True:
+    print(xf())
+    
+-. . -..- - / . -. - .-. -.--
+x.f()
+-. . -..- - / . -. - .-. -.--
+class Dog:
+    kind = 'canine'
+    def __init__(self, name):
+        self.name = name
+        
+-. . -..- - / . -. - .-. -.--
+class Dog:
+    kind = 'canine'
+    def __init__(self, name):
+        self.name = name
+    def add_trick(self, trick):
+        self.tricks.append(trick)
+        
+-. . -..- - / . -. - .-. -.--
+d.name
+-. . -..- - / . -. - .-. -.--
+e.name
+-. . -..- - / . -. - .-. -.--
+d.kind
+-. . -..- - / . -. - .-. -.--
+e.kind
+-. . -..- - / . -. - .-. -.--
+class Dog:
+    def __init__(self, name):
+        self.name = name
+        self.tricks = []
+    def add_trick(self, trick):
+        self.tricks.append(trick)
+        
+-. . -..- - / . -. - .-. -.--
+d = Dog('Fido')
+-. . -..- - / . -. - .-. -.--
+e = Dog('Buddy')
+-. . -..- - / . -. - .-. -.--
+d.add_trick('roll over')
+-. . -..- - / . -. - .-. -.--
+e.add_trick('play dead')
+-. . -..- - / . -. - .-. -.--
+d.tricks
+-. . -..- - / . -. - .-. -.--
+e.tricks
+-. . -..- - / . -. - .-. -.--
+Warehouse(region)
+-. . -..- - / . -. - .-. -.--
+Warehouse(west)
+-. . -..- - / . -. - .-. -.--
+class Warehouse:
+    purpose = 'storage'
+    region = 'west'
+    
+-. . -..- - / . -. - .-. -.--
+w1 = Warehouse()
+-. . -..- - / . -. - .-. -.--
+Warehouse(purpose)
+-. . -..- - / . -. - .-. -.--
+print(w1.purpose, w1.region)
+-. . -..- - / . -. - .-. -.--
+w2 = Warehouse()
+-. . -..- - / . -. - .-. -.--
+w2.region = 'east'
+-. . -..- - / . -. - .-. -.--
+print(w2.purpose, w2.region)
+-. . -..- - / . -. - .-. -.--
+def f1(self, x, y):
+    return min(x, x+y)
+class C:
+    f = f1
+    def g(self):
+        return 'hello world'
+    h = g
+    
+-. . -..- - / . -. - .-. -.--
+class Bag:
+    def __init__(self):
+        self.data = []
+    def add(self, x):
+        self.data.append(x)
+    def addtwice(self, x):
+        self.add(x)
+        self.add(x)
+        
+-. . -..- - / . -. - .-. -.--
+w1.__class__
+-. . -..- - / . -. - .-. -.--
+Dog.__class__
+-. . -..- - / . -. - .-. -.--
+kind.__class__
+-. . -..- - / . -. - .-. -.--
+x.__class__
+-. . -..- - / . -. - .-. -.--
+class Mapping:
+    def __init__(self, iterable):
+        self.items_list = []
+        self.__update(iterable)
+    def update (self, iterable):
+        for item in iterable:
+            self.items_list.append(item)
+    __update = update
+class MappingSubclass(Mapping):
+    def update(self, keys, values):
+        for item in zip(keys, values):
+            self.items_list.append(item)
+            
+-. . -..- - / . -. - .-. -.--
+class Employee:
+    pass
+john = Employee()
+-. . -..- - / . -. - .-. -.--
+john.name = 'John Doe'
+-. . -..- - / . -. - .-. -.--
+john.dept = 'computer lab'
+-. . -..- - / . -. - .-. -.--
+john.salary = 1000
+-. . -..- - / . -. - .-. -.--
+for element in [1, 2, 3]:
+    print(element)
+for element in (1, 2, 3):
+    print(element)
+for key in {'one':1, 'two':2}:
+    print(key)
+for char in "123":
+    print(char)
+for line in open('scratch.py'):
+    print(line, end='')
+    
+-. . -..- - / . -. - .-. -.--
+for element in [1, 2, 3]:
+    print(element)
+for element in (1, 2, 3):
+    print(element)
+for key in {'one':1, 'two':2}:
+    print(key)
+for char in "123":
+    print(char)
+for line in open('fibo.py'):
+    print(line, end='')
+    
+-. . -..- - / . -. - .-. -.--
+s = 'abc'
+-. . -..- - / . -. - .-. -.--
+it = iter(s)
+-. . -..- - / . -. - .-. -.--
+it
+-. . -..- - / . -. - .-. -.--
+next(it)
+-. . -..- - / . -. - .-. -.--
+class Reverse:
+    def __init__(self, data):
+        self.data = data
+        self.index = len(data)
+    def __iter__(self):
+        return self
+    def __next__(self):
+        if self.index == 0:
+            raise StopIteration
+        self.index = self.index - 1
+        return self.data[self.index]
+    
+-. . -..- - / . -. - .-. -.--
+rev = Reverse('spam')
+-. . -..- - / . -. - .-. -.--
+iter(rev)
+-. . -..- - / . -. - .-. -.--
+for char in rev:
+    print(char)
+    
+-. . -..- - / . -. - .-. -.--
+def reverse(data):
+    for index in range(len(data)-1, -1, -1):
+        yield data[index]
+        
+-. . -..- - / . -. - .-. -.--
+for char in reverse('golf')
+    print(char)
+    
+-. . -..- - / . -. - .-. -.--
+for char in reverse('golf'):
+    print(char)
+    
+-. . -..- - / . -. - .-. -.--
+sum(i*i for i in range(10))
+-. . -..- - / . -. - .-. -.--
+xvec = [10, 20, 30]
+-. . -..- - / . -. - .-. -.--
+yvec = [7, 5, 3]
+-. . -..- - / . -. - .-. -.--
+sum(x*y for x,y in zip(xvec, yvec))
+-. . -..- - / . -. - .-. -.--
+unique_words = set(word for line in page  for word in line.split())
+-. . -..- - / . -. - .-. -.--
+unique_words = set(word for line in page for word in line.split())
+-. . -..- - / . -. - .-. -.--
+valedictorian = max((student.gpa, student.name) for student in graduates)
+-. . -..- - / . -. - .-. -.--
+import os
+-. . -..- - / . -. - .-. -.--
+dir(os)
+-. . -..- - / . -. - .-. -.--
+help(os)
+-. . -..- - / . -. - .-. -.--
+import shutil
+-. . -..- - / . -. - .-. -.--
+import glob
+-. . -..- - / . -. - .-. -.--
+glob.glob('*.org')
+-. . -..- - / . -. - .-. -.--
+glob.glob('*.py')
+-. . -..- - / . -. - .-. -.--
+os.getcwd()
+-. . -..- - / . -. - .-. -.--
+2 + 2
+-. . -..- - / . -. - .-. -.--
+50 - 5*6
+-. . -..- - / . -. - .-. -.--
+(50 - 5*6) / 4
+-. . -..- - / . -. - .-. -.--
+print(float(_))
+-. . -..- - / . -. - .-. -.--
+print(int(_))
+-. . -..- - / . -. - .-. -.--
+8 / 5
+-. . -..- - / . -. - .-. -.--
+17 / 3
+-. . -..- - / . -. - .-. -.--
+16
+-. . -..- - / . -. - .-. -.--
+import collections
+
+card = collections.namedtuple('card', ['rank', 'suit'])
+
+class FrenchDeck:
+    ranks = [str(n) for n in range(2, 11)] + list('JQKA')
+    suits = 'spades diamonds clubs hearts'.split()
+
+    def __init__(self):
+        self._cards = [card(rank, suit) for suit in self.suits
+                                       for rank in self.ranks]
+
+    def __len__(self):
+        return len(self._cards)
+
+    def __getitem__(self, position):
+        return self._cards[position]
+    
+-. . -..- - / . -. - .-. -.--
+beer_card = card('7', 'diamonds')
+-. . -..- - / . -. - .-. -.--
+beer_card
+-. . -..- - / . -. - .-. -.--
+deck = FrenchDeck()
+-. . -..- - / . -. - .-. -.--
+len(deck)
+-. . -..- - / . -. - .-. -.--
+deck[0]
+-. . -..- - / . -. - .-. -.--
+deck[-1]
+-. . -..- - / . -. - .-. -.--
+from random import choice
+-. . -..- - / . -. - .-. -.--
+choice(deck)
+-. . -..- - / . -. - .-. -.--
+deck[:3]
+-. . -..- - / . -. - .-. -.--
+deck[12::13]
+-. . -..- - / . -. - .-. -.--
+for card in reversed(deck):
+    print(card)
+    
+-. . -..- - / . -. - .-. -.--
+card('7', 'beasts')
+-. . -..- - / . -. - .-. -.--
+card(rank='2', suit='spades')
+-. . -..- - / . -. - .-. -.--
+print(card('7', 'diamonds') in deck)
+-. . -..- - / . -. - .-. -.--
+card('Q', 'hearts') in deck
+-. . -..- - / . -. - .-. -.--
+card)'7', 'beasts') in deck
+-. . -..- - / . -. - .-. -.--
+card('7', 'beasts') in deck
+-. . -..- - / . -. - .-. -.--
+for card in deck
+    print(card)
+    
+-. . -..- - / . -. - .-. -.--
+for card in deck:
+    print(card)
+    
+-. . -..- - / . -. - .-. -.--
+import collections
+-. . -..- - / . -. - .-. -.--
+card = collections.namedtuple('card', ['rank', 'suit'])
+-. . -..- - / . -. - .-. -.--
+v1 = Vector(2, 4)
+-. . -..- - / . -. - .-. -.--
+import math
+-. . -..- - / . -. - .-. -.--
+x = '5'
+-. . -..- - / . -. - .-. -.--
+y = x ** 2
+-. . -..- - / . -. - .-. -.--
+y = int(x) ** 2
+-. . -..- - / . -. - .-. -.--
+print(y)
+-. . -..- - / . -. - .-. -.--
+print(x)
+-. . -..- - / . -. - .-. -.--
+print(int(x))
+-. . -..- - / . -. - .-. -.--
+print(int(x) * 2)
+-. . -..- - / . -. - .-. -.--
+reset
+-. . -..- - / . -. - .-. -.--
+from collections import abc
+-. . -..- - / . -. - .-. -.--
+issubclass(tuple, abc.Sequence)
+-. . -..- - / . -. - .-. -.--
+issubclass(list, abc.MutableSequence)
+-. . -..- - / . -. - .-. -.--
+symbols = '$¢£¥€¤'
+-. . -..- - / . -. - .-. -.--
+beyond_ascii = [ord(s) for s in symbols if ord(s) > 127]
+-. . -..- - / . -. - .-. -.--
+beyond_ascii = list(filter(lambda c: c > 127, map(ord,symbols)))
+-. . -..- - / . -. - .-. -.--
+beyond_ascii

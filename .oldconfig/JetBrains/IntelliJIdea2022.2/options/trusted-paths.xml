@@ -1,0 +1,27 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$" value="true" />
+        <entry key="$USER_HOME$/.cache/JetBrains/IntelliJIdea2022.2/demo/PyCharmLearningProject" value="true" />
+        <entry key="$USER_HOME$/.config/xmonad" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/Last Pencil" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/Simple Chatty Bot" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/us-level" value="true" />
+        <entry key="$USER_HOME$/hbook" value="true" />
+        <entry key="/tmp" value="true" />
+        <entry key="/tmp/xmonad.hs" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects" />
+        <option value="/home" />
+        <option value="/" />
+      </list>
+    </option>
+  </component>
+</application>

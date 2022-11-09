@@ -1,0 +1,149 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2FNEKxzKpNDMbOB9h87tSBzHdv6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GMhu6fvfHO7vaikYgI5xVcGLc9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GMiUvCw435JzZ08WcLRL4dY5HO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GMlwPDuzR6RIu8QsNbbode9FeZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GO0TZWA8v16AQklIbbdXxDTFWJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GOAGPCFVBDwFXZONIo4JnuWvBX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gd5Q2llSPrOAwFCVBNaKuwQZAd">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GdiDFkAf55dRgv8ruF7ut7XHbo">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GdiMovkH02ekPuAemukp0tR10S">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+  </component>
+  <component name="HyperskillSettings">
+    <option name="updateAutomatically" value="true" />
+    <HyperskillAccount>
+      <option name="tokenExpiresIn" value="1666762848" />
+      <option name="email" value="reggyelizer@gmail.com" />
+      <option name="fullname" value="Reggy Elizer" />
+      <option name="guest" value="false" />
+      <option name="hyperskillProjectId" value="97" />
+      <option name="id" value="330950200" />
+    </HyperskillAccount>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Edu.CourseCreator.Enabled": "true",
+    "Educational.recentCoursesFilled": "true",
+    "Educational.stepikOAuthReset": "true",
+    "ExpandBeforeRunStepsPanel": "true",
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
+    "InstalledPluginsSearchHistory": "edu\nE\nED\nEDU=\nEdi",
+    "KEYMAP": "escape\nexit ins\nInsert mode\nExit insert mode",
+    "MarketplacePluginsSearchHistory": "eduto\nedu\ned\nrainbo\nra",
+    "NewProjectWizard.addSampleCodeState": "true",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RegistryRecentKeys": "ide.experimental.ui",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "edu\nReload beha\nt",
+    "appcds.runOnSecondStart": "IU-222.4345.14-33a28dd88c3d871195eabf5d3cdc452e9942c6961bd23ede408cc7694fb94a38",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "askFeedbackNotification": "true",
+    "bundled.plugins.list.saved.version": "IU-222.4345.14",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "JavaScript",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "com.jetbrains.edu.LAST_UPDATE": "1666705601210",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "evlsprt3.222": "26",
+    "exception.accepted.notices": "182193a2",
+    "file.gist.reindex.count": "8",
+    "fileTypeChangedCounter": "17",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.builtin.web.server.reload.on.save": "1",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
+    "gotit.previous.run": "IU-222.4345.14",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1666702257717",
+    "ift.learning.panel.opened.in": "222.4345.14",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "222-1.7.20-release-201-IJ4167.29",
+    "kotlin.plugin.releaseDate": "222-1.7.20-release-201-IJ4167.29:2022-09-29",
+    "last_opened_file_path": "/home/farhan/.webprojects",
+    "mt.showInstallAtom": "true",
+    "previousColorScheme": "_@user_Dark purple",
+    "project.wizard.group": "newWizard.com.intellij.ide.wizard.NewProjectBuilder",
+    "registry.to.advanced.settings.migration.build": "IU-222.4345.14",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/farhan/.webprojects",
+      "/home/farhan/.webprojects/test-site",
+      "/home/farhan/Repositories/JavaScriptTest",
+      "/home/farhan/Repositories/poetry"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Zookeeper-history" project-path="$USER_HOME$/.webprojects/Zookeeper" last-access-time="1666723123866" />
+      <command-history-file filename="test-site-history" project-path="$USER_HOME$/.webprojects/test-site" last-access-time="1666717291721" />
+      <command-history-file filename="Honest Calculator-history" project-path="$USER_HOME$/.webprojects/Honest Calculator" last-access-time="1666294601000" />
+    </command-history-files>
+  </component>
+</application>

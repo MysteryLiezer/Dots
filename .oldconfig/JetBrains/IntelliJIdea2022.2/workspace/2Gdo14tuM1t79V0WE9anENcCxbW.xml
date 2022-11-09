@@ -1,0 +1,233 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Simple Chatty Bot" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Simple Chatty Bot/task/bot/bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="12" lastUsed="1666786349362" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1666727617499" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Simple Chatty Bot/task/bot/bot.py" />
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="12" lastUsage="1666786349362" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Simple Chatty Bot" type="a264ea2a:RootNode" />
+              <item name="Simple Chatty Bot" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Simple Chatty Bot" type="a264ea2a:RootNode" />
+              <item name="Simple Chatty Bot" type="ed842865:CourseNode" />
+              <item name="task" type="a27419f0:FrameworkLessonNode" />
+            </path>
+            <path>
+              <item name="Simple Chatty Bot" type="a264ea2a:RootNode" />
+              <item name="Simple Chatty Bot" type="ed842865:CourseNode" />
+              <item name="task" type="a27419f0:FrameworkLessonNode" />
+              <item name="bot" type="61faebc3:DirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Simple_Chatty_Bot_Print_your_name - 2022.10.25 at 15h 54m 13s.xml">
+      <configuration name="Simple Chatty Bot/Print your name" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Simple_Chatty_Bot_Print_your_name - 2022.10.25 at 15h 58m 08s.xml">
+      <configuration name="Simple Chatty Bot/Print your name" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Simple_Chatty_Bot_Guess_the_age - 2022.10.25 at 16h 05m 47s.xml">
+      <configuration name="Simple Chatty Bot/Guess the age" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Simple_Chatty_Bot_Guess_the_age - 2022.10.25 at 16h 06m 45s.xml">
+      <configuration name="Simple Chatty Bot/Guess the age" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Simple_Chatty_Bot_Guess_the_age - 2022.10.25 at 16h 07m 30s.xml">
+      <configuration name="Simple Chatty Bot/Guess the age" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Simple_Chatty_Bot_Learning_numbers - 2022.10.25 at 16h 50m 17s.xml">
+      <configuration name="Simple Chatty Bot/Learning numbers" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Simple_Chatty_Bot_Learning_numbers - 2022.10.25 at 16h 50m 56s.xml">
+      <configuration name="Simple Chatty Bot/Learning numbers" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Simple_Chatty_Bot_Multiple_choice - 2022.10.25 at 17h 17m 46s.xml">
+      <configuration name="Simple Chatty Bot/Multiple choice" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Simple_Chatty_Bot_Multiple_choice - 2022.10.25 at 17h 18m 09s.xml">
+      <configuration name="Simple Chatty Bot/Multiple choice" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Simple_Chatty_Bot_Multiple_choice - 2022.10.26 at 07h 30m 19s.xml">
+      <configuration name="Simple Chatty Bot/Multiple choice" configurationId="ccruntests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14231000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18828125" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.2502604" />
+      <window_info anchor="bottom" id="Run" show_stripe_button="false" weight="0.3300926" />
+      <window_info anchor="bottom" id="Python Console" weight="0.3300926" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" show_stripe_button="false" weight="0.3300926" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" id="Task" visible="true" weight="0.32994792" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+    </layoutV2>
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.2502604" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Endpoints" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="0" />
+      <window_info anchor="right" id="Key Promoter X" order="1" />
+      <window_info anchor="right" id="Task" order="2" visible="true" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Notifications" order="5" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Task</value>
+      <value>Python Console</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="388" key="Github.ShareDialog" timestamp="1666732862536">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="388" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1666732862536" />
+    <state x="719" y="181" key="Github.UntrackedFilesDialog" timestamp="1666732867709">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="719" y="181" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1666732867709" />
+    <state width="1838" height="314" key="GridCell.Tab.0.bottom" timestamp="1666787541971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1666787541971" />
+    <state width="1838" height="314" key="GridCell.Tab.0.center" timestamp="1666787541971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="314" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1666787541971" />
+    <state width="1838" height="314" key="GridCell.Tab.0.left" timestamp="1666787541971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="314" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1666787541971" />
+    <state width="1838" height="314" key="GridCell.Tab.0.right" timestamp="1666787541971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="314" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1666787541971" />
+    <state x="548" y="288" key="IDE.errors.dialog" timestamp="1666727621124">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="548" y="288" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1666727621124" />
+    <state x="524" y="168" key="Registry" timestamp="1666727689864">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="524" y="168" key="Registry/0.0.1920.1080@0.0.1920.1080" timestamp="1666727689864" />
+    <state x="472" y="190" key="SettingsEditor" timestamp="1666728168282">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="472" y="190" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1666728168282" />
+    <state x="623" y="236" width="672" height="704" key="search.everywhere.popup" timestamp="1666749573438">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="236" width="672" height="704" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1666749573438" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simple Chatty Bot/task/bot/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

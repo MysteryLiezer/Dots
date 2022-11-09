@@ -1,0 +1,33 @@
+<project version="4">
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="3" lastUsed="1667347405356" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="/tmp/test22.txt" />
+    </changedPaths>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1667347405356" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="701000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///tmp/test22.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

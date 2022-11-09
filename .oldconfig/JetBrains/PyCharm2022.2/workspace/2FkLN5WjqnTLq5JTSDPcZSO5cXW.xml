@@ -1,0 +1,202 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="example-code-2e" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="8" lastUsed="1666204661238" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="10" lastUsed="1666204661360" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/01-data-model/frenchdeck.py" />
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="8" lastUsage="1666204661240" />
+    </language>
+    <language id="Python">
+      <summary usageCount="10" lastUsage="1666204661360" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="example-code-2e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example-code-2e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example-code-2e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example-code-2e" type="462c0819:PsiDirectoryNode" />
+              <item name="01-data-model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example-code-2e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example-code-2e" type="462c0819:PsiDirectoryNode" />
+              <item name="02-array-seq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example-code-2e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example-code-2e" type="462c0819:PsiDirectoryNode" />
+              <item name="links" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30643000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2777778" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3303232" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.3080855" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Endpoints" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Notifications" order="4" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Python Console</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="311" key="FileChooserDialogImpl" timestamp="1666204683690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="451" y="311" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1666204683690" />
+    <state width="910" height="319" key="GridCell.Tab.0.bottom" timestamp="1665414393946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1665414393946" />
+    <state width="910" height="319" key="GridCell.Tab.0.center" timestamp="1665414393946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="319" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1665414393946" />
+    <state width="910" height="319" key="GridCell.Tab.0.left" timestamp="1665414393943">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="319" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1665414393943" />
+    <state width="910" height="319" key="GridCell.Tab.0.right" timestamp="1665414393946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="910" height="319" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1665414393946" />
+    <state x="0" y="200" key="SettingsEditor" timestamp="1665050700156">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="200" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1665050700156" />
+    <state x="187" y="273" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1665414475317">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="187" y="273" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1665414475317" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02-array-seq/listcomp_speed.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-data-model/frenchdeck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

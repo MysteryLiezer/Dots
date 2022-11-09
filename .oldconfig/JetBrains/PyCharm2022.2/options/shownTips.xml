@@ -1,0 +1,17 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="CellType.html" value="1665152230988" />
+        <entry key="CodeCompletion.html" value="1665412225854" />
+        <entry key="DBColors.html" value="1665025108227" />
+        <entry key="DiffChevron.html" value="1665273499201" />
+        <entry key="FindReplaceToggle.html" value="1664678930391" />
+        <entry key="ImageFileCompletion.html" value="1666725339745" />
+        <entry key="ParameterInfo.html" value="1664412273323" />
+        <entry key="ShowAppliedStyles.html" value="1664884597776" />
+        <entry key="SpellcheckerDictionaries.html" value="1666202182886" />
+      </map>
+    </option>
+  </component>
+</application>

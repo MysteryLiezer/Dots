@@ -1,0 +1,96 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/Simple Chatty Bot">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Simple Chatty Bot – bot.py" projectWorkspaceId="2Gdo14tuM1t79V0WE9anENcCxbW">
+              <option name="activationTimestamp" value="1666787539573" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-222.4345.14" />
+              <option name="buildTimestamp" value="1664946103067" />
+              <frame x="0" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1666787519166" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Last Pencil">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Last Pencil – game.py" projectWorkspaceId="2Ge0939OCvhCxSboAp66e4Qst5b">
+              <option name="activationTimestamp" value="1666827225669" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-222.4345.14" />
+              <option name="buildTimestamp" value="1664946066916" />
+              <frame x="0" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1666787542144" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/us-level">
+          <value>
+            <RecentProjectMetaInfo frameTitle="us-level – us.html" projectWorkspaceId="2Gh3wLVVhzjpAadXKlobzIO7N1J">
+              <option name="activationTimestamp" value="1667058067238" />
+              <frame x="0" y="0" width="1920" height="1080" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/xmonad.hs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="xmonad.hs – xmonad.hs" projectWorkspaceId="2GodPitpFsGBx2SEbQsnTEEOHYZ">
+              <option name="activationTimestamp" value="1667061630820" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-222.4345.14" />
+              <option name="buildTimestamp" value="1664946088497" />
+              <frame x="0" y="0" width="1248" height="1080" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1667058848054" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects">
+          <value>
+            <RecentProjectMetaInfo frameTitle="xmonad.hs" projectWorkspaceId="2GooEOQVAay3W8AeSsBNlTnkGMb">
+              <option name="activationTimestamp" value="1667064706201" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-222.4345.14" />
+              <option name="buildTimestamp" value="1664946115329" />
+              <frame x="0" y="0" width="960" height="1080" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1667064200123" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.config/xmonad">
+          <value>
+            <RecentProjectMetaInfo frameTitle="xmonad – ~/.config/xmonad/xmonad.hs" opened="true" projectWorkspaceId="2GopGze1GEZLI7jay9tsrrtly0e">
+              <option name="activationTimestamp" value="1667420186841" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-222.4345.14" />
+              <option name="buildTimestamp" value="1664946063497" />
+              <frame x="0" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1667347526717" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hbook">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hbook – Setup.hs" projectWorkspaceId="2GoqOpqKp9kKBxLhO2I5wejOFLU">
+              <option name="activationTimestamp" value="1667066624996" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-222.4345.14" />
+              <option name="buildTimestamp" value="1664946063497" />
+              <frame x="0" y="0" width="960" height="1080" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1667065257294" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/.cache/JetBrains/IntelliJIdea2022.2/demo/PyCharmLearningProject" />
+    <option name="lastProjectLocation" value="$USER_HOME$" />
+  </component>
+</application>

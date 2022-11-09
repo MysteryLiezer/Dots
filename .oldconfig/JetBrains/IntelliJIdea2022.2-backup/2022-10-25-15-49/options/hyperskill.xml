@@ -1,0 +1,907 @@
+<application>
+  <component name="HyperskillMetrics">
+    <events>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666249160167" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1039/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666249171674" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1039/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666276111022" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1039/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666276123364" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1039/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666279031537" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/8440" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666280023408" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7174" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666280792265" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6808" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666280861079" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6809" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666281965565" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6810" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666285519878" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/5890" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666286839176" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6886" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666287882938" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6461" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666288021888" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6462" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666288431965" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6466" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666291827910" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/5924" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666291989796" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6381" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666292051178" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6374" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666292218306" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6380" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666292247258" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6374" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666292250600" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6381" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666292253218" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6374" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666292255504" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6380" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666292271039" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6380" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666292449744" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6380" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666293978921" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7192" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666294006020" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7192" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666294036718" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7192" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666294040403" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7192" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666294047051" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1039/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666294077002" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7192" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666294080005" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/5932" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666294424630" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7192" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666294545725" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/5936" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666295811986" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7179" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666296117419" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6024" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666296220599" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6021" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666296243147" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7178" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666298689659" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6071" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666299499434" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/8442" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666301105569" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/9476" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666302159578" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6739" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666302621901" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6542" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666303557578" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6540" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666303666004" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6541" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666303715538" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6542" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666303719442" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6541" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666303720645" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6542" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666303724676" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6541" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666303824012" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6542" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666303836866" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6541" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666314362269" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6544" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666428822746" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6892" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666428992388" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/5816" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666429093845" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6881" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666429111777" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/5816" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666429132269" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6881" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666429854662" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/8001" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666430081658" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6534" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666431357293" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6521" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666433549592" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6850" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666433614724" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6845" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666433669642" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/13808" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666433832409" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6842" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666433851479" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/13808" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666433901127" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6842" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666433906896" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/13808" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666434078886" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6842" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666434103545" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/13808" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666436388340" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7136" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666436499648" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/15252" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666436641733" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/11137" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666437573176" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/9467" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666438515904" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6976" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666438534978" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6979" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666438956469" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6980" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666440188813" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7185" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666441151428" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/11693" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666441310291" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/11693" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666441318950" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/11693" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666441381847" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/17475" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666442027732" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6274" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666442343726" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/15946" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666442424131" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/11687" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666443588715" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1039/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666461234422" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1039/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666461255259" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1039/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666464833130" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1039/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666464853547" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1039/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666471998404" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1040/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666473268657" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1041/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666615158408" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1041/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666615183493" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1041/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666618579860" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1042/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619213077" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1041/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619215057" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1040/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619216222" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1039/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619262107" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1040/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619262803" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1041/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619263501" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1042/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619290154" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1041/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619290802" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1040/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619296016" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1041/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619319903" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1040/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619333170" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1041/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619334071" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1042/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619347216" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1041/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619354951" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1042/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619445971" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1041/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666619466575" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1042/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666639963813" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1043/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666705601988" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/539/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666705606048" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/539/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666708127112" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/539/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666708135297" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/539/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666710836919" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1043/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666710861598" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1043/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666711221168" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/539/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666711224865" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/539/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666711259712" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/539/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666711288466" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/539/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666711297040" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/539/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666711322507" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/539/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666711372931" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/540/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666711952947" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1043/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666711977970" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1043/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666717249811" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/540/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666717255856" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/541/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666718190382" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/541/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666718193303" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7927" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666718194987" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/541/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666718211226" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7927" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666718856997" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1043/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666718884960" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/208/stages/1043/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666718907566" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7927" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666718907828" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7927" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666718911838" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/541/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666718936315" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/7927" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666719784864" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/8495" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666719834536" />
+        <option name="action" value="view" />
+        <option name="route" value="/learn/step/6062" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666720090034" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/541/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666722120408" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/542/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666722889068" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/542/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666722898769" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/542/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666723070113" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/542/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666723079526" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/542/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666723086786" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/98/stages/542/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666724740096" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/534/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666724825939" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/534/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666725058019" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666725135021" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666725265446" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666725271756" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666725277413" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666725654799" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666725660479" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666725684023" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666725689139" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666725714818" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666725776417" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666726508893" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666726513219" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666726513614" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666726680419" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666726860933" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666726889675" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666726924088" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1666727308034" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/97/stages/535/implement" />
+      </HyperskillFrontendEvent>
+    </events>
+    <timeSpentEvents>
+      <map>
+        <entry key="5816" value="121.719" />
+        <entry key="5890" value="83.31799999999998" />
+        <entry key="5924" value="161.886" />
+        <entry key="5932" value="344.536" />
+        <entry key="5936" value="1235.7069999999999" />
+        <entry key="6021" value="22.430999999999997" />
+        <entry key="6024" value="84.912" />
+        <entry key="6062" value="49.706999999999994" />
+        <entry key="6071" value="585.1659999999999" />
+        <entry key="6274" value="237.505" />
+        <entry key="6374" value="170.276" />
+        <entry key="6380" value="352.15000000000003" />
+        <entry key="6381" value="64.0" />
+        <entry key="6461" value="138.949" />
+        <entry key="6462" value="410.077" />
+        <entry key="6466" value="374.802" />
+        <entry key="6521" value="1054.087" />
+        <entry key="6534" value="1178.431" />
+        <entry key="6540" value="107.76" />
+        <entry key="6541" value="7174.969000000002" />
+        <entry key="6542" value="710.1100000000002" />
+        <entry key="6544" value="785.9290000000001" />
+        <entry key="6739" value="196.259" />
+        <entry key="6810" value="57.422" />
+        <entry key="6842" value="49.376" />
+        <entry key="6845" value="54.861999999999995" />
+        <entry key="6850" value="65.132" />
+        <entry key="6881" value="147.796" />
+        <entry key="6886" value="439.864" />
+        <entry key="6892" value="169.642" />
+        <entry key="6976" value="19.058" />
+        <entry key="6979" value="353.295" />
+        <entry key="6980" value="147.36700000000002" />
+        <entry key="7136" value="111.308" />
+        <entry key="7178" value="326.432" />
+        <entry key="7179" value="300.84400000000005" />
+        <entry key="7185" value="125.68499999999999" />
+        <entry key="7192" value="169.3" />
+        <entry key="7927" value="1041.082" />
+        <entry key="8001" value="226.94" />
+        <entry key="8442" value="1493.7810000000002" />
+        <entry key="8495" value="49.672" />
+        <entry key="8799" value="148.049" />
+        <entry key="8800" value="622.6609999999998" />
+        <entry key="8815" value="1683.204999999999" />
+        <entry key="8816" value="510.47700000000003" />
+        <entry key="8817" value="1248.8059999999998" />
+        <entry key="8818" value="1089.766" />
+        <entry key="9467" value="632.943" />
+        <entry key="9476" value="490.0449999999999" />
+        <entry key="11137" value="346.67499999999995" />
+        <entry key="11687" value="131.602" />
+        <entry key="11693" value="205.072" />
+        <entry key="13808" value="1333.5609999999997" />
+        <entry key="15252" value="142.085" />
+        <entry key="15810" value="17381.204000000016" />
+        <entry key="15811" value="977.318" />
+        <entry key="15812" value="81206.97200000005" />
+        <entry key="15813" value="5899.676000000002" />
+        <entry key="15814" value="19519.331000000017" />
+        <entry key="15946" value="80.405" />
+        <entry key="17475" value="37.868" />
+      </map>
+    </timeSpentEvents>
+  </component>
+</application>

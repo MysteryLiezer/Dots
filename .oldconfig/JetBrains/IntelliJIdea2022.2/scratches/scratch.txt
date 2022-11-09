@@ -1,0 +1,112 @@
+*CopyWindow*
+
+Provides bindings to duplicate a window on multiple workspaces, providing dwm-like tagging functionality.
+
+*CycleRecentWS*
+
+Provides bindings to cycle through most recently used workspaces with repeated presses of a single key (as long as modifier key is held down). This is similar to how many window managers handle window switching.
+
+*CycleSelectedLayouts*
+
+This module allows to cycle through the given subset of layouts.
+
+*CycleWorkspaceByScreen*
+
+Cycle through previously viewed workspaces in the order they were viewed most recently on the screen where cycling is taking place.
+
+*DwmPromote*
+
+Dwm-like swap function for xmonad.
+
+Swaps focused window with the master window. If focus is in the master, swap it with the next window in the stack. Focus stays in the master.
+
+*DynamicProjects*
+
+Imbues workspaces with additional features so they can be treated as individual project areas.
+
+*DynamicWorkspaceGroups*
+
+Dynamically manage "workspace groups", sets of workspaces being used together for some common task or purpose, to allow switching between workspace groups in a single action. Note that this only makes sense for multi-head setups.
+
+*DynamicWorkspaceOrder*
+
+Remember a dynamically updateable ordering on workspaces, together with tools for using this ordering with XMonad.Actions.CycleWS and XMonad.Hooks.StatusBar.PP.
+
+*DynamicWorkspaces*
+
+Provides bindings to add and delete workspaces.
+
+*EasyMotion*
+
+*****Provides functionality to use key chords to focus a visible window. Overlays a unique key chord (a string) above each visible window and allows the user to select a window by typing that chord. Inspired by vim-easymotion. Thanks to Tom Hinton for some feature inspiration and window sorting code.
+
+*GridSelect*
+
+*GroupNavigation*
+*GroupNavigation*
+*GroupNavigation*
+
+Provides methods for cycling through groups of windows across workspaces, ignoring windows that do not belong to this group. A group consists of all windows matching a user-provided boolean query.
+
+Also provides a method for jumping back to the most recently used window in any given group, and predefined groups.
+
+*LinkWorkspaces*
+
+Provides bindings to add and delete links between workspaces. It is aimed at providing useful links between workspaces in a multihead setup. Linked workspaces are view at the same time.
+
+*Minimize*
+
+*OnScreen*
+
+Control workspaces on different screens.
+
+*PhysicalScreens*
+
+Manipulate screens ordered by physical location instead of ID
+
+A module that allows the user to use a prefix argument (raw or numeric).
+
+*Promote*
+
+Alternate promote function for xmonad.
+
+Moves the focused window to the master pane. All other windows retain their order. If focus is in the master, swap it with the next window in the stack. Focus stays in the master.
+
+*RotateSome*
+
+Functions for rotating some elements around the stack while keeping others anchored in place. Useful in combination with layouts that dictate window visibility based on stack position, such as XMonad.Layout.LimitWindows.
+
+*Submap*
+
+A module that allows the user to create a sub-mapping of key bindings.
+
+*SwapWorkspaces*
+
+Lets you swap workspace tags, so you can keep related ones next to each other, without having to move individual windows.
+
+*TagWindows*
+
+Functions for tagging windows and selecting them by tags.
+
+*TopicSpace*
+
+Turns your workspaces into a more topic oriented system
+
+*TreeSelect*
+
+*UpdatePointer*
+
+Causes the pointer to follow whichever window focus changes to. Compliments the idea of switching focus as the mouse crosses window boundaries to keep the mouse near the currently focused window
+
+*Workscreen*
+
+A workscreen permits to display a set of workspaces on several screens. In xinerama mode, when a workscreen is viewed, workspaces associated to all screens are visible.
+
+The first workspace of a workscreen is displayed on first screen, second on second screen, etc. Workspace position can be easily changed. If the current workscreen is called again, workspaces are shifted.
+
+This also permits to see all workspaces of a workscreen even if just one screen is present, and to move windows from workspace to workscreen.
+
+*WorkspaceNames*
+
+Provides bindings to rename workspaces, show these names in a status bar and swap workspaces along with their names. These names survive restart. Together with XMonad.Layout.WorkspaceDir this provides for a fully dynamic topic space workflow.
+

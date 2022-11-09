@@ -1,0 +1,150 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="PyCharmLearningProject" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/welcome.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1667347670739" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1667347669090" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="2" lastUsed="1667347671740" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1667347670739" />
+    </language>
+    <language id="Python">
+      <summary usageCount="2" lastUsage="1667347671740" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1667347669090" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Course" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PyCharmLearningProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyCharmLearningProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="325000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" weight="0.2278646" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" visible="true" weight="0.2278646" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2278646" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" weight="0.32971698" />
+      <window_info anchor="bottom" id="Internal Method Tracing" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dependency Checker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" id="Key Promoter X" show_stripe_button="false" />
+      <window_info anchor="right" id="github.copilotToolWindow" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" show_stripe_button="false" />
+      <window_info anchor="right" id="SciView" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+    </layoutV2>
+    <recentWindows>
+      <value>Learn</value>
+      <value>Bookmarks</value>
+      <value>Project</value>
+      <value>TODO</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="181" key="Registry" timestamp="1667347846686">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="537" y="181" key="Registry/0.0.1920.1080@0.0.1920.1080" timestamp="1667347846686" />
+    <state x="472" y="200" key="SettingsEditor" timestamp="1667347812483">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="472" y="200" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1667347812483" />
+    <state x="623" y="243" width="672" height="715" key="search.everywhere.popup" timestamp="1667347834918">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="243" width="672" height="715" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1667347834918" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/feature-trainer-version.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+configuration {
+    @theme: "~/.config/rofi/themes/dt-center.rasi";
+}
+
+
+
